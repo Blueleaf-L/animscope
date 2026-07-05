@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "generated_at": "2026-07-05T18:51:43.324544+08:00",
+    "generated_at": "2026-07-05T19:03:07.176354+08:00",
     "source_file": "主流动画公司作品推荐表.xlsx",
     "total_companies": 72,
     "total_works": 586
@@ -2152,16 +2152,16 @@
       "company_name": "上美",
       "name": "中国奇谭 第一季",
       "year": 2023,
-      "work_type": "3D",
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
     },
     {
       "company_name": "上美",
-      "name": "中国奇谭 第一季",
+      "name": "中国奇谭 第二季",
       "year": 2026,
-      "work_type": "3D",
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0

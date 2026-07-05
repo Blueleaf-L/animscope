@@ -10,8 +10,8 @@
   "type_distribution": [
     {
       "type": "2D",
-      "count": 265,
-      "avg_score": 0.64
+      "count": 267,
+      "avg_score": 0.65
     },
     {
       "type": "三渲二",
@@ -20,8 +20,8 @@
     },
     {
       "type": "3D",
-      "count": 279,
-      "avg_score": 0.47
+      "count": 277,
+      "avg_score": 0.46
     }
   ],
   "yearly_trends": [

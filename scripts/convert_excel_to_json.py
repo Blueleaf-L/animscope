@@ -92,11 +92,45 @@ def _detect_columns(columns):
     return mapping
 
 
-def classify_company_type(work_types):
-    """Determine company type from its works' types.
-    If a company produces more than one type, it's '混合型'.
-    """
-    unique = set(work_types)
+def classify_company_type(company_name, _work_types):
+    """Determine company type — hardcoded from manual review (most reliable)."""
+    MIXED = {
+        "好传", "福煦影视", "福煦影视（福总）", "福总",
+        "云图", "七创社", "米粒影业", "绘之刃", "声影动漫",
+    }
+    ONLY_2D = {
+        "视美", "震雷", "彩色铅笔", "大火鸟", "画枚", "七灵石", "ASK",
+        "艾尔平方", "小疯映画", "分子互动", "寒木春华", "娃娃鱼", "六道无鱼",
+        "璀璨星空", "什悦文化", "糖人家", "知行合一", "崇卓", "灵参伍", "立羽",
+        "心魂", "柒幺柒", "九五年", "时七羽墨", "七瞳映画", "启缘映画", "洛水花园",
+        "绘梦", "哔梦", "绘梦/哔梦", "Sunflowers", "上美", "中汇影视",
+    }
+    ONLY_3D = {
+        "幻维数码", "原力动画", "神漫", "吾立方", "伊恩", "晴祥", "初色",
+        "百漫", "大呈印象", "万维猫", "筑梦", "天工艺彩", "艺画开天", "海岸线",
+        "虚拟印象", "超神影业", "黑岩网络", "谜谭", "若森", "中影年年", "君艺心",
+        "龙沧", "同明宣", "灵犀文化", "玄机科技", "氦闪", "凝羽动画", "美盛",
+    }
+    ONLY_SXS = {
+        "更三", "三三而川", "更三/三三而川", "笔酷文化", "纸飞机", "元气蛙",
+        "幻马群英社", "两点十分",
+    }
+
+    for m in MIXED:
+        if m in company_name or company_name in m:
+            return "混合型"
+    for d in ONLY_2D:
+        if d in company_name or company_name in d:
+            return "2D"
+    for d in ONLY_3D:
+        if d in company_name or company_name in d:
+            return "3D"
+    for s in ONLY_SXS:
+        if s in company_name or company_name in s:
+            return "三渲二"
+
+    # Fallback: determine from works' types
+    unique = set(_work_types)
     if len(unique) >= 2:
         return "混合型"
     return unique.pop() if unique else "3D"
@@ -111,11 +145,20 @@ def convert(excel_path, type_data_path, output_dir="data"):
         type_data = json.load(f)
 
     # Build lookup: company_name -> work_name -> type
+    # Also build fuzzy index (strip spaces + year suffix) for better matching
     type_lookup = {}
+    type_lookup_fuzzy = {}
     for comp_name, works in type_data.items():
         type_lookup[comp_name] = {}
+        type_lookup_fuzzy[comp_name] = {}
         for w in works:
-            type_lookup[comp_name][w["name"]] = w["type"]
+            wname = w["name"]
+            type_lookup[comp_name][wname] = w["type"]
+            # Fuzzy key: strip spaces, remove trailing (YYYY) and numbers
+            import re as _re
+            fuzzy = _re.sub(r'\s+', '', wname)
+            fuzzy = _re.sub(r'[(（]\d{4}[)）]$', '', fuzzy)
+            type_lookup_fuzzy[comp_name][fuzzy] = w["type"]
 
     print(f"\n[*] Loaded corrected types for {len(type_data)} companies")
 
@@ -123,6 +166,17 @@ def convert(excel_path, type_data_path, output_dir="data"):
     print(f"[*] Reading Excel: {excel_path}")
     df = load_and_clean_data(excel_path)
     print(f"  {len(df)} rows, {df['动画公司'].nunique()} companies")
+
+    # Fix known typo: 中国奇谭第一季 (2026) -> 中国奇谭第二季
+    typo_fixed = 0
+    for idx in df.index:
+        name = str(df.at[idx, "动画名"])
+        year = df.at[idx, "年份"]
+        if "中国奇谭" in name and "第一季" in name and pd.notna(year) and int(year) >= 2026:
+            df.at[idx, "动画名"] = name.replace("第一季", "第二季")
+            typo_fixed += 1
+    if typo_fixed:
+        print(f"  Fixed typo: '中国奇谭第一季' -> '第二季' ({typo_fixed} entry)")
 
     # Generate companies and works
     companies = []
@@ -139,7 +193,7 @@ def convert(excel_path, type_data_path, output_dir="data"):
             if corrected_type:
                 work_types_seen.append(corrected_type)
 
-        company_type = classify_company_type(work_types_seen)
+        company_type = classify_company_type(company_name, work_types_seen)
 
         companies.append({
             "name": str(company_name).strip(),
@@ -159,8 +213,12 @@ def convert(excel_path, type_data_path, output_dir="data"):
             rating_label = row["rating_label"] if pd.notna(row["rating_label"]) else None
             rating_score = float(row["rating_score"]) if pd.notna(row["rating_score"]) else None
 
-            # Use corrected type from the lookup, fall back to Excel
+            # Use corrected type from the lookup — try exact first, then fuzzy
             corrected_type = lookup.get(work_name, None)
+            if not corrected_type:
+                fuzzy_key = re.sub(r'\s+', '', work_name)
+                fuzzy_key = re.sub(r'[(（]\d{4}[)）]$', '', fuzzy_key)
+                corrected_type = type_lookup_fuzzy.get(company_name, {}).get(fuzzy_key, None)
             if corrected_type:
                 corrected_count += 1
 

@@ -2890,31 +2890,31 @@
   {
     "id": 31,
     "name": "上美",
-    "type": "3D",
+    "type": "2D",
     "works_count": 2,
     "avg_score": 2.0,
     "works": [
       {
         "company_name": "上美",
-        "name": "中国奇谭 第一季",
+        "name": "中国奇谭 第二季",
         "year": 2026,
-        "work_type": "3D",
+        "work_type": "2D",
         "rating_raw": "不明",
         "rating_label": "不明",
         "rating_score": 0.0,
         "company_id": 31,
-        "company_type": "3D"
+        "company_type": "2D"
       },
       {
         "company_name": "上美",
         "name": "中国奇谭 第一季",
         "year": 2023,
-        "work_type": "3D",
+        "work_type": "2D",
         "rating_raw": "年度推荐 中推荐",
         "rating_label": "年度推荐",
         "rating_score": 4.0,
         "company_id": 31,
-        "company_type": "3D"
+        "company_type": "2D"
       }
     ]
   },

@@ -113,7 +113,7 @@
     {
       "company_id": 31,
       "company_name": "上美",
-      "company_type": "3D",
+      "company_type": "2D",
       "avg_score": 2.0,
       "works_count": 2,
       "trend_slope": -1.3333,
@@ -863,7 +863,7 @@
     {
       "company_id": 31,
       "company_name": "上美",
-      "company_type": "3D",
+      "company_type": "2D",
       "avg_score": 2.0,
       "works_count": 2,
       "trend_slope": -1.3333,
@@ -1082,8 +1082,8 @@
     }
   ],
   "track_benchmarks": {
-    "2D": 1.49,
-    "3D": 0.86,
+    "2D": 1.5,
+    "3D": 0.79,
     "三渲二": 1.5,
     "混合型": 1.16
   }

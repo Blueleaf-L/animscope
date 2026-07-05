@@ -1,0 +1,370 @@
+{
+  "_metadata": {
+    "generated_at": "2026-07-05T14:33:06.139560+08:00",
+    "source_file": "主流动画公司作品推荐表.xlsx",
+    "total_companies": 72,
+    "total_works": 586
+  },
+  "companies": [
+    {
+      "name": "视美",
+      "type": "2D",
+      "total_works": 17
+    },
+    {
+      "name": "震雷",
+      "type": "2D",
+      "total_works": 6
+    },
+    {
+      "name": "彩色铅笔",
+      "type": "2D",
+      "total_works": 14
+    },
+    {
+      "name": "大火鸟",
+      "type": "2D",
+      "total_works": 17
+    },
+    {
+      "name": "画枚",
+      "type": "2D",
+      "total_works": 3
+    },
+    {
+      "name": "七灵石",
+      "type": "2D",
+      "total_works": 7
+    },
+    {
+      "name": "ASK",
+      "type": "2D",
+      "total_works": 7
+    },
+    {
+      "name": "艾尔平方",
+      "type": "2D",
+      "total_works": 12
+    },
+    {
+      "name": "好传",
+      "type": "2D",
+      "total_works": 6
+    },
+    {
+      "name": "小疯映画",
+      "type": "2D",
+      "total_works": 6
+    },
+    {
+      "name": "分子互动",
+      "type": "2D",
+      "total_works": 12
+    },
+    {
+      "name": "寒木春华",
+      "type": "2D",
+      "total_works": 2
+    },
+    {
+      "name": "娃娃鱼",
+      "type": "2D",
+      "total_works": 9
+    },
+    {
+      "name": "六道无鱼",
+      "type": "2D",
+      "total_works": 2
+    },
+    {
+      "name": "璀璨星空",
+      "type": "2D",
+      "total_works": 2
+    },
+    {
+      "name": "什悦文化",
+      "type": "2D",
+      "total_works": 3
+    },
+    {
+      "name": "糖人家",
+      "type": "2D",
+      "total_works": 3
+    },
+    {
+      "name": "知行合一",
+      "type": "2D",
+      "total_works": 5
+    },
+    {
+      "name": "崇卓",
+      "type": "2D",
+      "total_works": 2
+    },
+    {
+      "name": "灵参伍",
+      "type": "2D",
+      "total_works": 3
+    },
+    {
+      "name": "立羽",
+      "type": "2D",
+      "total_works": 4
+    },
+    {
+      "name": "心魂",
+      "type": "2D",
+      "total_works": 1
+    },
+    {
+      "name": "柒幺柒",
+      "type": "2D",
+      "total_works": 2
+    },
+    {
+      "name": "九五年",
+      "type": "2D",
+      "total_works": 9
+    },
+    {
+      "name": "时七羽墨",
+      "type": "2D",
+      "total_works": 1
+    },
+    {
+      "name": "七瞳映画",
+      "type": "2D",
+      "total_works": 1
+    },
+    {
+      "name": "启缘映画",
+      "type": "2D",
+      "total_works": 9
+    },
+    {
+      "name": "洛水花园",
+      "type": "2D",
+      "total_works": 25
+    },
+    {
+      "name": "绘梦/哔梦",
+      "type": "2D",
+      "total_works": 45
+    },
+    {
+      "name": "Sunflowers",
+      "type": "2D",
+      "total_works": 3
+    },
+    {
+      "name": "上美",
+      "type": "2D",
+      "total_works": 2
+    },
+    {
+      "name": "中汇影视",
+      "type": "2D",
+      "total_works": 5
+    },
+    {
+      "name": "福煦影视（福总）",
+      "type": "2D",
+      "total_works": 46
+    },
+    {
+      "name": "幻维数码",
+      "type": "3D",
+      "total_works": 20
+    },
+    {
+      "name": "原力动画",
+      "type": "3D",
+      "total_works": 11
+    },
+    {
+      "name": "神漫",
+      "type": "3D",
+      "total_works": 8
+    },
+    {
+      "name": "云图",
+      "type": "3D",
+      "total_works": 9
+    },
+    {
+      "name": "吾立方",
+      "type": "3D",
+      "total_works": 4
+    },
+    {
+      "name": "伊恩",
+      "type": "3D",
+      "total_works": 3
+    },
+    {
+      "name": "晴祥",
+      "type": "3D",
+      "total_works": 6
+    },
+    {
+      "name": "初色",
+      "type": "3D",
+      "total_works": 3
+    },
+    {
+      "name": "百漫",
+      "type": "3D",
+      "total_works": 11
+    },
+    {
+      "name": "大呈印象",
+      "type": "3D",
+      "total_works": 5
+    },
+    {
+      "name": "万维猫",
+      "type": "3D",
+      "total_works": 6
+    },
+    {
+      "name": "筑梦",
+      "type": "3D",
+      "total_works": 12
+    },
+    {
+      "name": "天工艺彩",
+      "type": "3D",
+      "total_works": 12
+    },
+    {
+      "name": "艺画开天",
+      "type": "3D",
+      "total_works": 4
+    },
+    {
+      "name": "海岸线",
+      "type": "3D",
+      "total_works": 4
+    },
+    {
+      "name": "虚拟印象",
+      "type": "3D",
+      "total_works": 10
+    },
+    {
+      "name": "超神影业",
+      "type": "3D",
+      "total_works": 4
+    },
+    {
+      "name": "七创社",
+      "type": "3D",
+      "total_works": 6
+    },
+    {
+      "name": "黑岩网络",
+      "type": "3D",
+      "total_works": 2
+    },
+    {
+      "name": "米粒影业",
+      "type": "三渲二",
+      "total_works": 5
+    },
+    {
+      "name": "谜谭",
+      "type": "3D",
+      "total_works": 2
+    },
+    {
+      "name": "若森",
+      "type": "3D",
+      "total_works": 16
+    },
+    {
+      "name": "中影年年",
+      "type": "3D",
+      "total_works": 25
+    },
+    {
+      "name": "君艺心",
+      "type": "3D",
+      "total_works": 8
+    },
+    {
+      "name": "龙沧",
+      "type": "3D",
+      "total_works": 1
+    },
+    {
+      "name": "同明宣",
+      "type": "3D",
+      "total_works": 2
+    },
+    {
+      "name": "灵犀文化",
+      "type": "3D",
+      "total_works": 6
+    },
+    {
+      "name": "玄机科技",
+      "type": "3D",
+      "total_works": 34
+    },
+    {
+      "name": "氦闪",
+      "type": "3D",
+      "total_works": 3
+    },
+    {
+      "name": "凝羽动画",
+      "type": "3D",
+      "total_works": 5
+    },
+    {
+      "name": "美盛",
+      "type": "3D",
+      "total_works": 4
+    },
+    {
+      "name": "更三/三三而川",
+      "type": "三渲二",
+      "total_works": 4
+    },
+    {
+      "name": "绘之刃",
+      "type": "三渲二",
+      "total_works": 4
+    },
+    {
+      "name": "笔酷文化",
+      "type": "三渲二",
+      "total_works": 1
+    },
+    {
+      "name": "纸飞机",
+      "type": "三渲二",
+      "total_works": 3
+    },
+    {
+      "name": "元气蛙",
+      "type": "三渲二",
+      "total_works": 4
+    },
+    {
+      "name": "幻马群英社",
+      "type": "三渲二",
+      "total_works": 2
+    },
+    {
+      "name": "两点十分",
+      "type": "三渲二",
+      "total_works": 10
+    },
+    {
+      "name": "声影动漫",
+      "type": "三渲二",
+      "total_works": 16
+    }
+  ]
+}

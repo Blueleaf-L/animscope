@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "generated_at": "2026-07-05T14:33:06.139560+08:00",
+    "generated_at": "2026-07-05T18:51:43.324544+08:00",
     "source_file": "主流动画公司作品推荐表.xlsx",
     "total_companies": 72,
     "total_works": 586
@@ -8,363 +8,291 @@
   "companies": [
     {
       "name": "视美",
-      "type": "2D",
-      "total_works": 17
+      "type": "2D"
     },
     {
       "name": "震雷",
-      "type": "2D",
-      "total_works": 6
+      "type": "2D"
     },
     {
       "name": "彩色铅笔",
-      "type": "2D",
-      "total_works": 14
+      "type": "2D"
     },
     {
       "name": "大火鸟",
-      "type": "2D",
-      "total_works": 17
+      "type": "2D"
     },
     {
       "name": "画枚",
-      "type": "2D",
-      "total_works": 3
+      "type": "2D"
     },
     {
       "name": "七灵石",
-      "type": "2D",
-      "total_works": 7
+      "type": "2D"
     },
     {
       "name": "ASK",
-      "type": "2D",
-      "total_works": 7
+      "type": "2D"
     },
     {
       "name": "艾尔平方",
-      "type": "2D",
-      "total_works": 12
+      "type": "2D"
     },
     {
       "name": "好传",
-      "type": "2D",
-      "total_works": 6
+      "type": "混合型"
     },
     {
       "name": "小疯映画",
-      "type": "2D",
-      "total_works": 6
+      "type": "2D"
     },
     {
       "name": "分子互动",
-      "type": "2D",
-      "total_works": 12
+      "type": "2D"
     },
     {
       "name": "寒木春华",
-      "type": "2D",
-      "total_works": 2
+      "type": "2D"
     },
     {
       "name": "娃娃鱼",
-      "type": "2D",
-      "total_works": 9
+      "type": "2D"
     },
     {
       "name": "六道无鱼",
-      "type": "2D",
-      "total_works": 2
+      "type": "2D"
     },
     {
       "name": "璀璨星空",
-      "type": "2D",
-      "total_works": 2
+      "type": "2D"
     },
     {
       "name": "什悦文化",
-      "type": "2D",
-      "total_works": 3
+      "type": "2D"
     },
     {
       "name": "糖人家",
-      "type": "2D",
-      "total_works": 3
+      "type": "2D"
     },
     {
       "name": "知行合一",
-      "type": "2D",
-      "total_works": 5
+      "type": "2D"
     },
     {
       "name": "崇卓",
-      "type": "2D",
-      "total_works": 2
+      "type": "2D"
     },
     {
       "name": "灵参伍",
-      "type": "2D",
-      "total_works": 3
+      "type": "2D"
     },
     {
       "name": "立羽",
-      "type": "2D",
-      "total_works": 4
+      "type": "2D"
     },
     {
       "name": "心魂",
-      "type": "2D",
-      "total_works": 1
+      "type": "2D"
     },
     {
       "name": "柒幺柒",
-      "type": "2D",
-      "total_works": 2
+      "type": "2D"
     },
     {
       "name": "九五年",
-      "type": "2D",
-      "total_works": 9
+      "type": "2D"
     },
     {
       "name": "时七羽墨",
-      "type": "2D",
-      "total_works": 1
+      "type": "2D"
     },
     {
       "name": "七瞳映画",
-      "type": "2D",
-      "total_works": 1
+      "type": "2D"
     },
     {
       "name": "启缘映画",
-      "type": "2D",
-      "total_works": 9
+      "type": "2D"
     },
     {
       "name": "洛水花园",
-      "type": "2D",
-      "total_works": 25
+      "type": "2D"
     },
     {
       "name": "绘梦/哔梦",
-      "type": "2D",
-      "total_works": 45
+      "type": "2D"
     },
     {
       "name": "Sunflowers",
-      "type": "2D",
-      "total_works": 3
+      "type": "2D"
     },
     {
       "name": "上美",
-      "type": "2D",
-      "total_works": 2
+      "type": "3D"
     },
     {
       "name": "中汇影视",
-      "type": "2D",
-      "total_works": 5
+      "type": "2D"
     },
     {
       "name": "福煦影视（福总）",
-      "type": "2D",
-      "total_works": 46
+      "type": "混合型"
     },
     {
       "name": "幻维数码",
-      "type": "3D",
-      "total_works": 20
+      "type": "3D"
     },
     {
       "name": "原力动画",
-      "type": "3D",
-      "total_works": 11
+      "type": "3D"
     },
     {
       "name": "神漫",
-      "type": "3D",
-      "total_works": 8
+      "type": "3D"
     },
     {
       "name": "云图",
-      "type": "3D",
-      "total_works": 9
+      "type": "混合型"
     },
     {
       "name": "吾立方",
-      "type": "3D",
-      "total_works": 4
+      "type": "3D"
     },
     {
       "name": "伊恩",
-      "type": "3D",
-      "total_works": 3
+      "type": "3D"
     },
     {
       "name": "晴祥",
-      "type": "3D",
-      "total_works": 6
+      "type": "3D"
     },
     {
       "name": "初色",
-      "type": "3D",
-      "total_works": 3
+      "type": "3D"
     },
     {
       "name": "百漫",
-      "type": "3D",
-      "total_works": 11
+      "type": "3D"
     },
     {
       "name": "大呈印象",
-      "type": "3D",
-      "total_works": 5
+      "type": "3D"
     },
     {
       "name": "万维猫",
-      "type": "3D",
-      "total_works": 6
+      "type": "3D"
     },
     {
       "name": "筑梦",
-      "type": "3D",
-      "total_works": 12
+      "type": "3D"
     },
     {
       "name": "天工艺彩",
-      "type": "3D",
-      "total_works": 12
+      "type": "3D"
     },
     {
       "name": "艺画开天",
-      "type": "3D",
-      "total_works": 4
+      "type": "3D"
     },
     {
       "name": "海岸线",
-      "type": "3D",
-      "total_works": 4
+      "type": "3D"
     },
     {
       "name": "虚拟印象",
-      "type": "3D",
-      "total_works": 10
+      "type": "3D"
     },
     {
       "name": "超神影业",
-      "type": "3D",
-      "total_works": 4
+      "type": "3D"
     },
     {
       "name": "七创社",
-      "type": "3D",
-      "total_works": 6
+      "type": "混合型"
     },
     {
       "name": "黑岩网络",
-      "type": "3D",
-      "total_works": 2
+      "type": "3D"
     },
     {
       "name": "米粒影业",
-      "type": "三渲二",
-      "total_works": 5
+      "type": "混合型"
     },
     {
       "name": "谜谭",
-      "type": "3D",
-      "total_works": 2
+      "type": "3D"
     },
     {
       "name": "若森",
-      "type": "3D",
-      "total_works": 16
+      "type": "3D"
     },
     {
       "name": "中影年年",
-      "type": "3D",
-      "total_works": 25
+      "type": "3D"
     },
     {
       "name": "君艺心",
-      "type": "3D",
-      "total_works": 8
+      "type": "3D"
     },
     {
       "name": "龙沧",
-      "type": "3D",
-      "total_works": 1
+      "type": "3D"
     },
     {
       "name": "同明宣",
-      "type": "3D",
-      "total_works": 2
+      "type": "3D"
     },
     {
       "name": "灵犀文化",
-      "type": "3D",
-      "total_works": 6
+      "type": "3D"
     },
     {
       "name": "玄机科技",
-      "type": "3D",
-      "total_works": 34
+      "type": "3D"
     },
     {
       "name": "氦闪",
-      "type": "3D",
-      "total_works": 3
+      "type": "3D"
     },
     {
       "name": "凝羽动画",
-      "type": "3D",
-      "total_works": 5
+      "type": "3D"
     },
     {
       "name": "美盛",
-      "type": "3D",
-      "total_works": 4
+      "type": "3D"
     },
     {
       "name": "更三/三三而川",
-      "type": "三渲二",
-      "total_works": 4
+      "type": "三渲二"
     },
     {
       "name": "绘之刃",
-      "type": "三渲二",
-      "total_works": 4
+      "type": "混合型"
     },
     {
       "name": "笔酷文化",
-      "type": "三渲二",
-      "total_works": 1
+      "type": "三渲二"
     },
     {
       "name": "纸飞机",
-      "type": "三渲二",
-      "total_works": 3
+      "type": "三渲二"
     },
     {
       "name": "元气蛙",
-      "type": "三渲二",
-      "total_works": 4
+      "type": "三渲二"
     },
     {
       "name": "幻马群英社",
-      "type": "三渲二",
-      "total_works": 2
+      "type": "三渲二"
     },
     {
       "name": "两点十分",
-      "type": "三渲二",
-      "total_works": 10
+      "type": "三渲二"
     },
     {
       "name": "声影动漫",
-      "type": "三渲二",
-      "total_works": 16
+      "type": "混合型"
     }
   ]
 }

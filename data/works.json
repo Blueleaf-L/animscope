@@ -1,6 +1,6 @@
 {
   "_metadata": {
-    "generated_at": "2026-07-05T14:33:06.139560+08:00",
+    "generated_at": "2026-07-05T18:51:43.324544+08:00",
     "source_file": "主流动画公司作品推荐表.xlsx",
     "total_companies": 72,
     "total_works": 586
@@ -10,14 +10,16 @@
       "company_name": "视美",
       "name": "爱神巧克力",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "视美",
       "name": "女娲成长日记",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -26,14 +28,16 @@
       "company_name": "视美",
       "name": "双生灵探",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "视美",
       "name": "国民老公带回家",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -42,6 +46,7 @@
       "company_name": "视美",
       "name": "全职高手 第一季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -50,14 +55,16 @@
       "company_name": "视美",
       "name": "酷跑英雄",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "视美",
       "name": "魔道祖师 前尘篇",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -66,14 +73,16 @@
       "company_name": "视美",
       "name": "魔道祖师 羡云篇",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "视美",
       "name": "魔道祖师 完结篇",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -82,6 +91,7 @@
       "company_name": "视美",
       "name": "历师",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -90,6 +100,7 @@
       "company_name": "视美",
       "name": "民调局异闻录 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -98,6 +109,7 @@
       "company_name": "视美",
       "name": "民调局异闻录 第二季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -106,14 +118,16 @@
       "company_name": "视美",
       "name": "一念永恒 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "视美",
       "name": "一念永恒 第二季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -122,14 +136,16 @@
       "company_name": "视美",
       "name": "一念永恒 第三季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "视美",
       "name": "时空之隙",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -138,6 +154,7 @@
       "company_name": "视美",
       "name": "诡秘之主",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -146,6 +163,7 @@
       "company_name": "震雷",
       "name": "麻神",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -154,6 +172,7 @@
       "company_name": "震雷",
       "name": "迷域行者",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -162,14 +181,16 @@
       "company_name": "震雷",
       "name": "雏蜂·伊甸之子",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "震雷",
       "name": "识夜猫银",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -178,30 +199,34 @@
       "company_name": "震雷",
       "name": "仙宠",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "震雷",
       "name": "放开那个女巫",
       "year": 2026,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "彩色铅笔",
       "name": "撸时代 第二季",
       "year": 2014,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "彩色铅笔",
       "name": "那年那兔那些事 第一季",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -210,14 +235,16 @@
       "company_name": "彩色铅笔",
       "name": "开封奇谈",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "彩色铅笔",
       "name": "蓝漠的话",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -226,6 +253,7 @@
       "company_name": "彩色铅笔",
       "name": "全职高手 特别篇",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -234,6 +262,7 @@
       "company_name": "彩色铅笔",
       "name": "全职高手之荣耀巅峰",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -242,6 +271,7 @@
       "company_name": "彩色铅笔",
       "name": "全职高手 第二季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -250,6 +280,7 @@
       "company_name": "彩色铅笔",
       "name": "全职高手 第三季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -258,6 +289,7 @@
       "company_name": "彩色铅笔",
       "name": "幻游猎人",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -266,14 +298,16 @@
       "company_name": "彩色铅笔",
       "name": "镖人",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "彩色铅笔",
       "name": "狐妖小红娘 镜花缘篇",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -282,22 +316,25 @@
       "company_name": "彩色铅笔",
       "name": "哑舍",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "彩色铅笔",
       "name": "魔法公主小烦恼",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "彩色铅笔",
       "name": "紫禁·御喵坊",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -306,6 +343,7 @@
       "company_name": "大火鸟",
       "name": "我的天劫女友",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -314,6 +352,7 @@
       "company_name": "大火鸟",
       "name": "实验品家庭",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -322,6 +361,7 @@
       "company_name": "大火鸟",
       "name": "邪王追妻 第一季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -330,6 +370,7 @@
       "company_name": "大火鸟",
       "name": "邪王追妻 第二季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -338,6 +379,7 @@
       "company_name": "大火鸟",
       "name": "邪王追妻 第三季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -346,6 +388,7 @@
       "company_name": "大火鸟",
       "name": "妖精种植手册",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -354,14 +397,16 @@
       "company_name": "大火鸟",
       "name": "一人之下 第三季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "大火鸟",
       "name": "英雄再临",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -370,6 +415,7 @@
       "company_name": "大火鸟",
       "name": "大王饶命 第一季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -378,14 +424,16 @@
       "company_name": "大火鸟",
       "name": "大王饶命 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "大火鸟",
       "name": "戍天伏魔录",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -394,6 +442,7 @@
       "company_name": "大火鸟",
       "name": "小绿和小蓝 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -402,6 +451,7 @@
       "company_name": "大火鸟",
       "name": "小绿和小蓝 第三季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -410,6 +460,7 @@
       "company_name": "大火鸟",
       "name": "小绿和小蓝 第四季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -418,6 +469,7 @@
       "company_name": "大火鸟",
       "name": "小绿和小蓝 第五季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -426,6 +478,7 @@
       "company_name": "大火鸟",
       "name": "超能立方",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -434,6 +487,7 @@
       "company_name": "大火鸟",
       "name": "鲲吞天下",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -442,30 +496,34 @@
       "company_name": "画枚",
       "name": "石少侠感觉好孤单",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "画枚",
       "name": "白色闪电",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "画枚",
       "name": "开拍啦！怪兽大电影",
       "year": 2026,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "七灵石",
       "name": "帝王攻略",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -474,6 +532,7 @@
       "company_name": "七灵石",
       "name": "白夜玲珑",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -482,14 +541,16 @@
       "company_name": "七灵石",
       "name": "那年那兔那些事 第五季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "七灵石",
       "name": "解药",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -498,6 +559,7 @@
       "company_name": "七灵石",
       "name": "无限少女48",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -506,14 +568,16 @@
       "company_name": "七灵石",
       "name": "绝顶",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "七灵石",
       "name": "斗神姬",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -522,6 +586,7 @@
       "company_name": "ASK",
       "name": "万古仙穹 第二季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -530,6 +595,7 @@
       "company_name": "ASK",
       "name": "万古仙穹 第三季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -538,6 +604,7 @@
       "company_name": "ASK",
       "name": "万古仙穹 第四季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -546,14 +613,16 @@
       "company_name": "ASK",
       "name": "今天开始做明星 第一季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "ASK",
       "name": "今天开始做明星 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -562,6 +631,7 @@
       "company_name": "ASK",
       "name": "最后的召唤师",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -570,6 +640,7 @@
       "company_name": "ASK",
       "name": "三线轮洄",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -578,14 +649,16 @@
       "company_name": "艾尔平方",
       "name": "十万个冷笑话 第一季",
       "year": 2012,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "艾尔平方",
       "name": "十万个冷笑话 第二季",
       "year": 2013,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -594,14 +667,16 @@
       "company_name": "艾尔平方",
       "name": "尸兄",
       "year": 2013,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "艾尔平方",
       "name": "镇魂街 第一季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -610,6 +685,7 @@
       "company_name": "艾尔平方",
       "name": "镇魂街 第二季（重制版）",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -618,22 +694,25 @@
       "company_name": "艾尔平方",
       "name": "镇魂街 第三季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "艾尔平方",
       "name": "镇魂街 第四季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "艾尔平方",
       "name": "汉化日记 第一季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -642,6 +721,7 @@
       "company_name": "艾尔平方",
       "name": "汉化日记 第二季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -650,6 +730,7 @@
       "company_name": "艾尔平方",
       "name": "汉化日记 第三季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -658,14 +739,16 @@
       "company_name": "艾尔平方",
       "name": "汉化日记 第四季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "艾尔平方",
       "name": "七侯笔录",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -674,6 +757,7 @@
       "company_name": "好传",
       "name": "大理寺日志 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -682,22 +766,25 @@
       "company_name": "好传",
       "name": "大理寺日志 第二季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "好传",
       "name": "怪画廊之颜王",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "好传",
       "name": "荒神录之玲珑山",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -706,6 +793,7 @@
       "company_name": "好传",
       "name": "孤雄",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -714,14 +802,16 @@
       "company_name": "好传",
       "name": "深潜·强制倒带",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "小疯映画",
       "name": "刺客伍六七",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -730,6 +820,7 @@
       "company_name": "小疯映画",
       "name": "伍六七之最强发型师",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -738,6 +829,7 @@
       "company_name": "小疯映画",
       "name": "伍六七之玄武国篇",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -746,6 +838,7 @@
       "company_name": "小疯映画",
       "name": "伍六七之暗影宿命",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -754,6 +847,7 @@
       "company_name": "小疯映画",
       "name": "伍六七之记忆碎片",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -762,14 +856,16 @@
       "company_name": "小疯映画",
       "name": "乐乐便利店",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "分子互动",
       "name": "非人哉 第一季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -778,6 +874,7 @@
       "company_name": "分子互动",
       "name": "非人哉 第二季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -786,6 +883,7 @@
       "company_name": "分子互动",
       "name": "非人哉 第三季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -794,6 +892,7 @@
       "company_name": "分子互动",
       "name": "万圣街 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -802,6 +901,7 @@
       "company_name": "分子互动",
       "name": "万圣街 第二季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -810,6 +910,7 @@
       "company_name": "分子互动",
       "name": "万圣街 第三季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -818,6 +919,7 @@
       "company_name": "分子互动",
       "name": "万圣街 第四季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -826,6 +928,7 @@
       "company_name": "分子互动",
       "name": "有兽焉 第一季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -834,6 +937,7 @@
       "company_name": "分子互动",
       "name": "有兽焉 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -842,6 +946,7 @@
       "company_name": "分子互动",
       "name": "有兽焉 第三季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -850,6 +955,7 @@
       "company_name": "分子互动",
       "name": "有兽焉 第四季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -858,6 +964,7 @@
       "company_name": "分子互动",
       "name": "有兽焉 第五季",
       "year": 2026,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -866,6 +973,7 @@
       "company_name": "寒木春华",
       "name": "罗小黑战记·众生之门篇",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -874,22 +982,25 @@
       "company_name": "寒木春华",
       "name": "婚后日常",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "娃娃鱼",
       "name": "黑白无双 第一季",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "娃娃鱼",
       "name": "黑白无双 第二季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -898,6 +1009,7 @@
       "company_name": "娃娃鱼",
       "name": "黑白无双 第三季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -906,14 +1018,16 @@
       "company_name": "娃娃鱼",
       "name": "萌妻食神 第一季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "娃娃鱼",
       "name": "萌妻食神 第二季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -922,6 +1036,7 @@
       "company_name": "娃娃鱼",
       "name": "萌妻食神 第三季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -930,6 +1045,7 @@
       "company_name": "娃娃鱼",
       "name": "小魔头暴露啦",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -938,6 +1054,7 @@
       "company_name": "娃娃鱼",
       "name": "神之一脚",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -946,6 +1063,7 @@
       "company_name": "娃娃鱼",
       "name": "全球高武",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -954,6 +1072,7 @@
       "company_name": "六道无鱼",
       "name": "雾山五行 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -962,14 +1081,16 @@
       "company_name": "六道无鱼",
       "name": "雾山五行 犀川幻紫林",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "璀璨星空",
       "name": "中国唱诗班",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -978,6 +1099,7 @@
       "company_name": "璀璨星空",
       "name": "0号宿舍",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -986,6 +1108,7 @@
       "company_name": "什悦文化",
       "name": "李林克的小馆儿 第一季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -994,6 +1117,7 @@
       "company_name": "什悦文化",
       "name": "李林克的小馆儿 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1002,22 +1126,25 @@
       "company_name": "什悦文化",
       "name": "今天的晚餐就是你",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "糖人家",
       "name": "猫之茗 第一季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "糖人家",
       "name": "猫之茗 番外",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1026,6 +1153,7 @@
       "company_name": "糖人家",
       "name": "猫之茗 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1034,6 +1162,7 @@
       "company_name": "知行合一",
       "name": "灵云代码",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1042,14 +1171,16 @@
       "company_name": "知行合一",
       "name": "血与心",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "知行合一",
       "name": "我家大师兄有点靠谱",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1058,6 +1189,7 @@
       "company_name": "知行合一",
       "name": "无脑魔女",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1066,14 +1198,16 @@
       "company_name": "知行合一",
       "name": "驭灵师",
       "year": 2026,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "崇卓",
       "name": "望古神话之天选者",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1082,14 +1216,16 @@
       "company_name": "崇卓",
       "name": "靠你啦，战神系统！",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "灵参伍",
       "name": "拾忆长安·明月几时有",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1098,22 +1234,25 @@
       "company_name": "灵参伍",
       "name": "爱幽的密室",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "灵参伍",
       "name": "是王者啊？ 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "立羽",
       "name": "她不当女主很多年",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1122,6 +1261,7 @@
       "company_name": "立羽",
       "name": "仙王的日常生活 第四季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1130,6 +1270,7 @@
       "company_name": "立羽",
       "name": "仙王的日常生活 第五季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1138,6 +1279,7 @@
       "company_name": "立羽",
       "name": "恰同学少年",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1146,22 +1288,25 @@
       "company_name": "心魂",
       "name": "左手上篮",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "柒幺柒",
       "name": "咸鱼哥 第一季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "柒幺柒",
       "name": "咸鱼哥 第二季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1170,14 +1315,16 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 第二季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1186,6 +1333,7 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 外传 莫相忘",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1194,6 +1342,7 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 第三季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1202,6 +1351,7 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 第四季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1210,6 +1360,7 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 第0.5季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1218,6 +1369,7 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 食物世界第一季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1226,6 +1378,7 @@
       "company_name": "九五年",
       "name": "请吃红小豆吧！ 新年快乐",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1234,22 +1387,25 @@
       "company_name": "九五年",
       "name": "我真的没用咩？",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "时七羽墨",
       "name": "怪兽小馆",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "七瞳映画",
       "name": "末日曙光",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1258,6 +1414,7 @@
       "company_name": "启缘映画",
       "name": "神明之胄",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1266,6 +1423,7 @@
       "company_name": "启缘映画",
       "name": "秦侠",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1274,6 +1432,7 @@
       "company_name": "启缘映画",
       "name": "盗墓笔记 秦岭神树",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1282,30 +1441,34 @@
       "company_name": "启缘映画",
       "name": "一人之下 第四季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "启缘映画",
       "name": "一人之下 第五季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "启缘映画",
       "name": "一人之下 第六季",
       "year": 2026,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "启缘映画",
       "name": "开局一座山 第一季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1314,14 +1477,16 @@
       "company_name": "启缘映画",
       "name": "开局一座山 第二季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "启缘映画",
       "name": "王者大师兄",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1330,22 +1495,25 @@
       "company_name": "洛水花园",
       "name": "端脑",
       "year": 2014,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "洛水花园",
       "name": "狐妖小红娘 下沙篇",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "洛水花园",
       "name": "狐妖小红娘 王权篇",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -1354,6 +1522,7 @@
       "company_name": "洛水花园",
       "name": "狐妖小红娘 月红篇",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -1362,14 +1531,16 @@
       "company_name": "洛水花园",
       "name": "狐妖小红娘 千颜篇",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "洛水花园",
       "name": "狐妖小红娘 南国篇",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1378,6 +1549,7 @@
       "company_name": "洛水花园",
       "name": "狐妖小红娘 竹业篇",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -1386,14 +1558,16 @@
       "company_name": "洛水花园",
       "name": "狐妖小红娘 尾生篇",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "洛水花园",
       "name": "狐妖小红娘 金晨曦篇",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -1402,14 +1576,16 @@
       "company_name": "洛水花园",
       "name": "狐妖小红娘 沐天城篇",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "洛水花园",
       "name": "狐妖小红娘 两生花篇",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1418,14 +1594,16 @@
       "company_name": "洛水花园",
       "name": "狐妖小红娘 无暮篇",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "洛水花园",
       "name": "灵域 第一季",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1434,6 +1612,7 @@
       "company_name": "洛水花园",
       "name": "灵域 第二季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1442,6 +1621,7 @@
       "company_name": "洛水花园",
       "name": "灵域 第三季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1450,6 +1630,7 @@
       "company_name": "洛水花园",
       "name": "灵域 第四季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1458,6 +1639,7 @@
       "company_name": "洛水花园",
       "name": "灵域 第五季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1466,6 +1648,7 @@
       "company_name": "洛水花园",
       "name": "灵域 第六季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1474,14 +1657,16 @@
       "company_name": "洛水花园",
       "name": "一人之下 第一季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "洛水花园",
       "name": "一人之下 第二季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1490,22 +1675,25 @@
       "company_name": "洛水花园",
       "name": "小绿和小蓝 第一季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "洛水花园",
       "name": "苍兰诀 第一季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "洛水花园",
       "name": "苍兰诀 第二季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1514,6 +1702,7 @@
       "company_name": "洛水花园",
       "name": "龙族 第一季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1522,6 +1711,7 @@
       "company_name": "洛水花园",
       "name": "龙族 第二季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1530,54 +1720,61 @@
       "company_name": "绘梦/哔梦",
       "name": "馒头日记",
       "year": 2013,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "撸时代 第一季",
       "year": 2013,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "中国惊奇先生",
       "year": 2014,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "王牌御史",
       "year": 2014,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "妖怪名单 第一季",
       "year": 2014,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "妖怪名单 第二季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "君临臣下",
       "year": 2014,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1586,6 +1783,7 @@
       "company_name": "绘梦/哔梦",
       "name": "雏蜂",
       "year": 2015,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1594,6 +1792,7 @@
       "company_name": "绘梦/哔梦",
       "name": "灵契 第一季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1602,6 +1801,7 @@
       "company_name": "绘梦/哔梦",
       "name": "灵契 第二季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1610,6 +1810,7 @@
       "company_name": "绘梦/哔梦",
       "name": "从前有座灵剑山 第一季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1618,6 +1819,7 @@
       "company_name": "绘梦/哔梦",
       "name": "从前有座灵剑山 第二季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1626,6 +1828,7 @@
       "company_name": "绘梦/哔梦",
       "name": "东郭小节",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1634,6 +1837,7 @@
       "company_name": "绘梦/哔梦",
       "name": "时空师徒",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1642,6 +1846,7 @@
       "company_name": "绘梦/哔梦",
       "name": "凸变英雄BABA",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -1650,6 +1855,7 @@
       "company_name": "绘梦/哔梦",
       "name": "凸变英雄LEAF",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1658,6 +1864,7 @@
       "company_name": "绘梦/哔梦",
       "name": "凸变英雄X",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1666,6 +1873,7 @@
       "company_name": "绘梦/哔梦",
       "name": "一课一练",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1674,6 +1882,7 @@
       "company_name": "绘梦/哔梦",
       "name": "银之守墓人 第一季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1682,6 +1891,7 @@
       "company_name": "绘梦/哔梦",
       "name": "银之守墓人 第二季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1690,14 +1900,16 @@
       "company_name": "绘梦/哔梦",
       "name": "降灵记",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "理想禁区",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1706,6 +1918,7 @@
       "company_name": "绘梦/哔梦",
       "name": "我的逆天神器",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1714,6 +1927,7 @@
       "company_name": "绘梦/哔梦",
       "name": "通灵妃 第一季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1722,6 +1936,7 @@
       "company_name": "绘梦/哔梦",
       "name": "垂直世界之地中海美少年",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1730,6 +1945,7 @@
       "company_name": "绘梦/哔梦",
       "name": "大王不高兴 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1738,6 +1954,7 @@
       "company_name": "绘梦/哔梦",
       "name": "仙王的日常生活 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1746,6 +1963,7 @@
       "company_name": "绘梦/哔梦",
       "name": "仙王的日常生活 第二季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1754,6 +1972,7 @@
       "company_name": "绘梦/哔梦",
       "name": "仙王的日常生活 第三季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1762,6 +1981,7 @@
       "company_name": "绘梦/哔梦",
       "name": "嗜谎之神",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1770,6 +1990,7 @@
       "company_name": "绘梦/哔梦",
       "name": "我开动物园那些年",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1778,22 +1999,25 @@
       "company_name": "绘梦/哔梦",
       "name": "百妖谱 第一季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "百妖谱 第二季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "百妖谱 第三季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1802,14 +2026,16 @@
       "company_name": "绘梦/哔梦",
       "name": "百妖谱 第四季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "百妖谱 第五季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1818,6 +2044,7 @@
       "company_name": "绘梦/哔梦",
       "name": "天官赐福",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1826,6 +2053,7 @@
       "company_name": "绘梦/哔梦",
       "name": "天官赐福 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1834,6 +2062,7 @@
       "company_name": "绘梦/哔梦",
       "name": "时光代理人 第一季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -1842,6 +2071,7 @@
       "company_name": "绘梦/哔梦",
       "name": "时光代理人 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1850,6 +2080,7 @@
       "company_name": "绘梦/哔梦",
       "name": "时光代理人 英都篇",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -1858,6 +2089,7 @@
       "company_name": "绘梦/哔梦",
       "name": "食草老龙被冠以恶龙之名 第一季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1866,14 +2098,16 @@
       "company_name": "绘梦/哔梦",
       "name": "食草老龙被冠以恶龙之名 第二季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "绘梦/哔梦",
       "name": "爱上她的理由",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -1882,14 +2116,16 @@
       "company_name": "绘梦/哔梦",
       "name": "新·异常生物见闻录：序",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "Sunflowers",
       "name": "风灵玉秀 第一季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1898,6 +2134,7 @@
       "company_name": "Sunflowers",
       "name": "风灵玉秀 第二季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1906,6 +2143,7 @@
       "company_name": "Sunflowers",
       "name": "风灵玉秀 特别篇",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1914,6 +2152,7 @@
       "company_name": "上美",
       "name": "中国奇谭 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -1922,6 +2161,7 @@
       "company_name": "上美",
       "name": "中国奇谭 第一季",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1930,6 +2170,7 @@
       "company_name": "中汇影视",
       "name": "快把我哥带走 第一季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -1938,6 +2179,7 @@
       "company_name": "中汇影视",
       "name": "快把我哥带走 第二季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1946,6 +2188,7 @@
       "company_name": "中汇影视",
       "name": "快把我哥带走 第三季",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1954,6 +2197,7 @@
       "company_name": "中汇影视",
       "name": "快把我哥带走 第四季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1962,6 +2206,7 @@
       "company_name": "中汇影视",
       "name": "快把我哥带走 第五季",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -1970,6 +2215,7 @@
       "company_name": "福煦影视（福总）",
       "name": "择天记2D 第一季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1978,6 +2224,7 @@
       "company_name": "福煦影视（福总）",
       "name": "择天记2D 第二季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -1986,30 +2233,34 @@
       "company_name": "福煦影视（福总）",
       "name": "择天记2D 第三季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "择天记2D 第四季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "择天记2D 第五季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第一季",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2018,6 +2269,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第二季",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2026,6 +2278,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第三季",
       "year": 2018,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2034,6 +2287,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第四季",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2042,6 +2296,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第五季",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2050,6 +2305,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第六季",
       "year": 2023,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2058,6 +2314,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 特别篇",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2066,6 +2323,7 @@
       "company_name": "福煦影视（福总）",
       "name": "全职法师 第七季",
       "year": 2026,
+      "work_type": "2D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2074,6 +2332,7 @@
       "company_name": "福煦影视（福总）",
       "name": "CMFU学院：王子碰碰球",
       "year": 2016,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2082,6 +2341,7 @@
       "company_name": "福煦影视（福总）",
       "name": "CMFU学院：绅士击击剑",
       "year": 2017,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2090,6 +2350,7 @@
       "company_name": "福煦影视（福总）",
       "name": "大主宰2D",
       "year": 2019,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2098,14 +2359,16 @@
       "company_name": "福煦影视（福总）",
       "name": "我为歌狂之旋律重启",
       "year": 2020,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "练气练了3000年",
       "year": 2022,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2114,14 +2377,16 @@
       "company_name": "福煦影视（福总）",
       "name": "亏成首富从游戏开始",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "三国杀：太平天书",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2130,6 +2395,7 @@
       "company_name": "福煦影视（福总）",
       "name": "斗破苍穹 第一季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -2138,6 +2404,7 @@
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第一季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2146,14 +2413,16 @@
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第二季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第三季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2162,6 +2431,7 @@
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第四季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2170,6 +2440,7 @@
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第五季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2178,6 +2449,7 @@
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第六季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2186,6 +2458,7 @@
       "company_name": "福煦影视（福总）",
       "name": "星辰变 第七季",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2194,6 +2467,7 @@
       "company_name": "福煦影视（福总）",
       "name": "镜·双城 风起篇",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2202,6 +2476,7 @@
       "company_name": "福煦影视（福总）",
       "name": "完美世界 第一季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2210,6 +2485,7 @@
       "company_name": "福煦影视（福总）",
       "name": "完美世界 年番1",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2218,6 +2494,7 @@
       "company_name": "福煦影视（福总）",
       "name": "完美世界 年番2",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2226,6 +2503,7 @@
       "company_name": "福煦影视（福总）",
       "name": "完美世界 年番3",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2234,6 +2512,7 @@
       "company_name": "福煦影视（福总）",
       "name": "完美世界 年番4",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2242,6 +2521,7 @@
       "company_name": "福煦影视（福总）",
       "name": "完美世界 年番5",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2250,6 +2530,7 @@
       "company_name": "福煦影视（福总）",
       "name": "定海浮生录",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2258,6 +2539,7 @@
       "company_name": "福煦影视（福总）",
       "name": "三寸人间",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2266,6 +2548,7 @@
       "company_name": "福煦影视（福总）",
       "name": "我捡起了一地属性",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2274,6 +2557,7 @@
       "company_name": "福煦影视（福总）",
       "name": "逆天邪神 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2282,6 +2566,7 @@
       "company_name": "福煦影视（福总）",
       "name": "逆天邪神 年番",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2290,6 +2575,7 @@
       "company_name": "福煦影视（福总）",
       "name": "傲世九重天",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2298,6 +2584,7 @@
       "company_name": "福煦影视（福总）",
       "name": "正经少主的幸福生活",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2306,6 +2593,7 @@
       "company_name": "福煦影视（福总）",
       "name": "十方武圣",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2314,14 +2602,16 @@
       "company_name": "福煦影视（福总）",
       "name": "从红月开始",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "福煦影视（福总）",
       "name": "大宇宙时代",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2330,6 +2620,7 @@
       "company_name": "福煦影视（福总）",
       "name": "幻宠师",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2338,6 +2629,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 第二季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2346,6 +2638,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 第三季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2354,6 +2647,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 第四季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2362,6 +2656,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 三年之约",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -2370,14 +2665,16 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 缘起",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "幻维数码",
       "name": "斗破苍穹 年番1",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2386,6 +2683,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 年番2",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2394,6 +2692,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 年番3",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2402,6 +2701,7 @@
       "company_name": "幻维数码",
       "name": "斗破苍穹 年番4",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2410,6 +2710,7 @@
       "company_name": "幻维数码",
       "name": "武动乾坤 第一季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2418,6 +2719,7 @@
       "company_name": "幻维数码",
       "name": "武动乾坤 第二季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2426,6 +2728,7 @@
       "company_name": "幻维数码",
       "name": "武动乾坤 第五季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2434,6 +2737,7 @@
       "company_name": "幻维数码",
       "name": "武动乾坤 第六季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2442,14 +2746,16 @@
       "company_name": "幻维数码",
       "name": "山河剑心",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "幻维数码",
       "name": "大主宰3D 年番1",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2458,6 +2764,7 @@
       "company_name": "幻维数码",
       "name": "大主宰3D 年番2",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2466,6 +2773,7 @@
       "company_name": "幻维数码",
       "name": "小兵传奇",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -2474,6 +2782,7 @@
       "company_name": "幻维数码",
       "name": "元尊",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2482,14 +2791,16 @@
       "company_name": "幻维数码",
       "name": "虎鹤妖师录",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "幻维数码",
       "name": "深空彼岸",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2498,30 +2809,34 @@
       "company_name": "原力动画",
       "name": "妈妈咪鸭",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "原力动画",
       "name": "凡人修仙传·风起天南",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "原力动画",
       "name": "凡人修仙传 年番1",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "原力动画",
       "name": "凡人修仙传 年番2",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2530,14 +2845,16 @@
       "company_name": "原力动画",
       "name": "凡人修仙传 年番3",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "原力动画",
       "name": "遮天 年番1",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2546,6 +2863,7 @@
       "company_name": "原力动画",
       "name": "遮天 年番2",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2554,6 +2872,7 @@
       "company_name": "原力动画",
       "name": "遮天 年番3",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2562,6 +2881,7 @@
       "company_name": "原力动画",
       "name": "修罗武神 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2570,6 +2890,7 @@
       "company_name": "原力动画",
       "name": "王者荣耀·荣耀之章 铠篇",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2578,6 +2899,7 @@
       "company_name": "原力动画",
       "name": "鬼吹灯之南海归墟",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2586,6 +2908,7 @@
       "company_name": "神漫",
       "name": "地灵曲",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2594,6 +2917,7 @@
       "company_name": "神漫",
       "name": "神印王座",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2602,6 +2926,7 @@
       "company_name": "神漫",
       "name": "沧元图 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -2610,6 +2935,7 @@
       "company_name": "神漫",
       "name": "沧元图 第二季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2618,6 +2944,7 @@
       "company_name": "神漫",
       "name": "沧元图 第三季",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2626,6 +2953,7 @@
       "company_name": "神漫",
       "name": "龙时代",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -2634,6 +2962,7 @@
       "company_name": "神漫",
       "name": "斩神之凡尘神域 第一季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2642,6 +2971,7 @@
       "company_name": "神漫",
       "name": "择天记3D",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2650,6 +2980,7 @@
       "company_name": "云图",
       "name": "梦塔·雪谜城",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2658,14 +2989,16 @@
       "company_name": "云图",
       "name": "逆转次元之AI崛起",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "云图",
       "name": "幻梦山海谣",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2674,6 +3007,7 @@
       "company_name": "云图",
       "name": "诛仙 第一季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2682,6 +3016,7 @@
       "company_name": "云图",
       "name": "诛仙 第二季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2690,14 +3025,16 @@
       "company_name": "云图",
       "name": "诛仙 第三季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "云图",
       "name": "王者荣耀·荣耀之章 李白篇",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2706,6 +3043,7 @@
       "company_name": "云图",
       "name": "剑来 第一季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -2714,6 +3052,7 @@
       "company_name": "云图",
       "name": "剑来 第二季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2722,14 +3061,16 @@
       "company_name": "吾立方",
       "name": "少年锦衣卫 第一季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "吾立方",
       "name": "少年锦衣卫 第二季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2738,6 +3079,7 @@
       "company_name": "吾立方",
       "name": "眷思量 第一季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2746,6 +3088,7 @@
       "company_name": "吾立方",
       "name": "眷思量 第二季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2754,6 +3097,7 @@
       "company_name": "伊恩",
       "name": "神墓 年番",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2762,6 +3106,7 @@
       "company_name": "伊恩",
       "name": "云深不知梦",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2770,14 +3115,16 @@
       "company_name": "伊恩",
       "name": "光阴之外 第一季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "晴祥",
       "name": "百炼成神 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2786,6 +3133,7 @@
       "company_name": "晴祥",
       "name": "百炼成神 第二季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2794,6 +3142,7 @@
       "company_name": "晴祥",
       "name": "百炼成神 第三季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -2802,6 +3151,7 @@
       "company_name": "晴祥",
       "name": "长生界",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2810,6 +3160,7 @@
       "company_name": "晴祥",
       "name": "克金玩家",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2818,6 +3169,7 @@
       "company_name": "晴祥",
       "name": "山海经密码",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2826,6 +3178,7 @@
       "company_name": "初色",
       "name": "黑门",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -2834,6 +3187,7 @@
       "company_name": "初色",
       "name": "银河之心",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -2842,6 +3196,7 @@
       "company_name": "初色",
       "name": "反派初始化",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -2850,22 +3205,25 @@
       "company_name": "百漫",
       "name": "西行纪 第一季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "百漫",
       "name": "西行纪 第二季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "百漫",
       "name": "西行纪 第三季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2874,14 +3232,16 @@
       "company_name": "百漫",
       "name": "西行纪 第四季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "百漫",
       "name": "西行纪 年番",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2890,6 +3250,7 @@
       "company_name": "百漫",
       "name": "狂王",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2898,6 +3259,7 @@
       "company_name": "百漫",
       "name": "大猿魂",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2906,14 +3268,16 @@
       "company_name": "百漫",
       "name": "绝代双骄",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "百漫",
       "name": "九州缥缈录",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2922,6 +3286,7 @@
       "company_name": "百漫",
       "name": "大侠请上功",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2930,14 +3295,16 @@
       "company_name": "百漫",
       "name": "玄界之门",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "大呈印象",
       "name": "大话之少年游",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2946,6 +3313,7 @@
       "company_name": "大呈印象",
       "name": "武动乾坤 第三季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2954,6 +3322,7 @@
       "company_name": "大呈印象",
       "name": "武动乾坤 第四季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2962,6 +3331,7 @@
       "company_name": "大呈印象",
       "name": "星域四万年",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2970,6 +3340,7 @@
       "company_name": "大呈印象",
       "name": "异人君莫邪",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -2978,6 +3349,7 @@
       "company_name": "万维猫",
       "name": "无限世界",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2986,6 +3358,7 @@
       "company_name": "万维猫",
       "name": "不死不灭",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -2994,6 +3367,7 @@
       "company_name": "万维猫",
       "name": "一世之尊",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3002,22 +3376,25 @@
       "company_name": "万维猫",
       "name": "回铭之烽火三月",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "万维猫",
       "name": "从姑获鸟开始之龙城风云",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "万维猫",
       "name": "大道独行之蝶龙变",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3026,6 +3403,7 @@
       "company_name": "筑梦",
       "name": "萌萌哒联盟",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3034,6 +3412,7 @@
       "company_name": "筑梦",
       "name": "墓王之王 麒麟决",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3042,14 +3421,16 @@
       "company_name": "筑梦",
       "name": "墓王之王 寒铁斗",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "筑梦",
       "name": "墓王之王 悬棺寺",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3058,14 +3439,16 @@
       "company_name": "筑梦",
       "name": "墓王之王 幽都战",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "筑梦",
       "name": "绝命响应",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3074,14 +3457,16 @@
       "company_name": "筑梦",
       "name": "紫川 第一季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "筑梦",
       "name": "紫川 第二季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3090,14 +3475,16 @@
       "company_name": "筑梦",
       "name": "仙逆 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "筑梦",
       "name": "仙逆 年番1",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3106,6 +3493,7 @@
       "company_name": "筑梦",
       "name": "仙逆 年番2",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3114,6 +3502,7 @@
       "company_name": "筑梦",
       "name": "仙逆 年番3",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3122,6 +3511,7 @@
       "company_name": "天工艺彩",
       "name": "末世觉醒之入侵",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3130,14 +3520,16 @@
       "company_name": "天工艺彩",
       "name": "末世觉醒之溯源",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "天工艺彩",
       "name": "永生 无尽仙途",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3146,6 +3538,7 @@
       "company_name": "天工艺彩",
       "name": "永生 十年之约",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3154,6 +3547,7 @@
       "company_name": "天工艺彩",
       "name": "永生 气壮山河",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3162,6 +3556,7 @@
       "company_name": "天工艺彩",
       "name": "永生 海噬仙灵",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3170,6 +3565,7 @@
       "company_name": "天工艺彩",
       "name": "永生 太元仙府",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3178,6 +3574,7 @@
       "company_name": "天工艺彩",
       "name": "战千年",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3186,6 +3583,7 @@
       "company_name": "天工艺彩",
       "name": "赘婿 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3194,6 +3592,7 @@
       "company_name": "天工艺彩",
       "name": "赘婿 第二季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3202,6 +3601,7 @@
       "company_name": "天工艺彩",
       "name": "念无双",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3210,6 +3610,7 @@
       "company_name": "天工艺彩",
       "name": "卡徒",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3218,6 +3619,7 @@
       "company_name": "艺画开天",
       "name": "疯味英雄",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -3226,6 +3628,7 @@
       "company_name": "艺画开天",
       "name": "灵笼 第一季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3234,6 +3637,7 @@
       "company_name": "艺画开天",
       "name": "灵笼 第二季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3242,6 +3646,7 @@
       "company_name": "艺画开天",
       "name": "三体",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3250,14 +3655,16 @@
       "company_name": "海岸线",
       "name": "纳米核心 第一季",
       "year": 2014,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "海岸线",
       "name": "纳米核心 第二季",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3266,6 +3673,7 @@
       "company_name": "海岸线",
       "name": "纳米核心 第三季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3274,6 +3682,7 @@
       "company_name": "海岸线",
       "name": "暗界神使",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3282,46 +3691,52 @@
       "company_name": "虚拟印象",
       "name": "啦啦啦德玛西亚 第一季",
       "year": 2011,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "虚拟印象",
       "name": "啦啦啦德玛西亚 第二季",
       "year": 2012,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "虚拟印象",
       "name": "啦啦啦德玛西亚 第三季",
       "year": 2013,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "虚拟印象",
       "name": "超神学院 第一季",
       "year": 2013,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "虚拟印象",
       "name": "超神学院 第二季",
       "year": 2014,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "虚拟印象",
       "name": "超神学院 第三季 神与神",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3330,14 +3745,16 @@
       "company_name": "虚拟印象",
       "name": "超神学院 黑甲",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "虚拟印象",
       "name": "长剑风云 第一季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3346,6 +3763,7 @@
       "company_name": "虚拟印象",
       "name": "长剑风云 第二季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3354,6 +3772,7 @@
       "company_name": "虚拟印象",
       "name": "山海际会",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3362,22 +3781,25 @@
       "company_name": "超神影业",
       "name": "雄兵连 第一季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "超神影业",
       "name": "雄兵连 第二季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "超神影业",
       "name": "雄兵连 第三季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3386,6 +3808,7 @@
       "company_name": "超神影业",
       "name": "师士传说",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3394,14 +3817,16 @@
       "company_name": "七创社",
       "name": "凹凸世界 第一季",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "七创社",
       "name": "凹凸世界 第二季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3410,14 +3835,16 @@
       "company_name": "七创社",
       "name": "凹凸世界 第三季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "七创社",
       "name": "凹凸世界 第四季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3426,6 +3853,7 @@
       "company_name": "七创社",
       "name": "斩首之刃",
       "year": 2018,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3434,6 +3862,7 @@
       "company_name": "七创社",
       "name": "猫灵相册",
       "year": 2021,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3442,6 +3871,7 @@
       "company_name": "黑岩网络",
       "name": "星骸骑士",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3450,6 +3880,7 @@
       "company_name": "黑岩网络",
       "name": "余烬行者",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3458,6 +3889,7 @@
       "company_name": "米粒影业",
       "name": "神契幻奇谭",
       "year": 2017,
+      "work_type": "三渲二",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3466,6 +3898,7 @@
       "company_name": "米粒影业",
       "name": "雪鹰领主 第一季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3474,6 +3907,7 @@
       "company_name": "米粒影业",
       "name": "雪鹰领主 第二季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3482,6 +3916,7 @@
       "company_name": "米粒影业",
       "name": "雪鹰领主 第三季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3490,6 +3925,7 @@
       "company_name": "米粒影业",
       "name": "你真是个天才",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3498,6 +3934,7 @@
       "company_name": "谜谭",
       "name": "山河社稷图",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3506,6 +3943,7 @@
       "company_name": "谜谭",
       "name": "红荒",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3514,6 +3952,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第一季",
       "year": 2014,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3522,6 +3961,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第二季",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3530,6 +3970,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第三季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3538,6 +3979,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第四季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -3546,6 +3988,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第五季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3554,6 +3997,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第六季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -3562,6 +4006,7 @@
       "company_name": "若森",
       "name": "画江湖之不良人 第七季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3570,6 +4015,7 @@
       "company_name": "若森",
       "name": "画江湖之灵主",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -3578,6 +4024,7 @@
       "company_name": "若森",
       "name": "画江湖之杯莫停",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3586,14 +4033,16 @@
       "company_name": "若森",
       "name": "画江湖之换世门生",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "若森",
       "name": "画江湖之侠岚",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3602,6 +4051,7 @@
       "company_name": "若森",
       "name": "画江湖之轨夜行",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3610,14 +4060,16 @@
       "company_name": "若森",
       "name": "风语咒",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "若森",
       "name": "猫妖的诱惑",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3626,6 +4078,7 @@
       "company_name": "若森",
       "name": "神墓 第一季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3634,6 +4087,7 @@
       "company_name": "若森",
       "name": "修罗武神 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3642,6 +4096,7 @@
       "company_name": "中影年年",
       "name": "勇者大冒险 第一季",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3650,6 +4105,7 @@
       "company_name": "中影年年",
       "name": "勇者大冒险 第二季",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3658,6 +4114,7 @@
       "company_name": "中影年年",
       "name": "生死回放",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3666,6 +4123,7 @@
       "company_name": "中影年年",
       "name": "少年歌行 第一季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3674,6 +4132,7 @@
       "company_name": "中影年年",
       "name": "少年歌行 风花雪月篇",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3682,6 +4141,7 @@
       "company_name": "中影年年",
       "name": "少年歌行 海外仙山篇",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3690,6 +4150,7 @@
       "company_name": "中影年年",
       "name": "少年歌行 血染天启篇",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3698,14 +4159,16 @@
       "company_name": "中影年年",
       "name": "元龙 第一季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "中影年年",
       "name": "元龙 第二季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3714,6 +4177,7 @@
       "company_name": "中影年年",
       "name": "元龙 第三季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3722,6 +4186,7 @@
       "company_name": "中影年年",
       "name": "芯觉",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3730,6 +4195,7 @@
       "company_name": "中影年年",
       "name": "我是大神仙 第一季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3738,6 +4204,7 @@
       "company_name": "中影年年",
       "name": "我是大神仙 第二季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3746,6 +4213,7 @@
       "company_name": "中影年年",
       "name": "我是大神仙 第三季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3754,14 +4222,16 @@
       "company_name": "中影年年",
       "name": "神澜奇域无双珠",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "中影年年",
       "name": "神澜奇域无双珠 红宝篇",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3770,6 +4240,7 @@
       "company_name": "中影年年",
       "name": "神澜奇域无双珠 天魔篇",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3778,6 +4249,7 @@
       "company_name": "中影年年",
       "name": "少年白马醉春风 第一季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3786,6 +4258,7 @@
       "company_name": "中影年年",
       "name": "少年白马醉春风 第二季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -3794,6 +4267,7 @@
       "company_name": "中影年年",
       "name": "长夜开拓者",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3802,30 +4276,34 @@
       "company_name": "中影年年",
       "name": "恶魔法则",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "中影年年",
       "name": "三十六骑",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "中影年年",
       "name": "金吾卫之风起金陵",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "中影年年",
       "name": "大道朝天",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -3834,22 +4312,25 @@
       "company_name": "中影年年",
       "name": "神国之上",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "君艺心",
       "name": "君有云 第一季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "君艺心",
       "name": "君有云 第二季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3858,6 +4339,7 @@
       "company_name": "君艺心",
       "name": "真阳武神",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3866,6 +4348,7 @@
       "company_name": "君艺心",
       "name": "暗河传",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3874,14 +4357,16 @@
       "company_name": "君艺心",
       "name": "第一序列 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "君艺心",
       "name": "捕星司·缘起",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3890,6 +4375,7 @@
       "company_name": "君艺心",
       "name": "神武天尊",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3898,6 +4384,7 @@
       "company_name": "君艺心",
       "name": "大唐乘风录",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3906,6 +4393,7 @@
       "company_name": "龙沧",
       "name": "双月之城",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3914,6 +4402,7 @@
       "company_name": "同明宣",
       "name": "观海策 第一季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3922,6 +4411,7 @@
       "company_name": "同明宣",
       "name": "观海策 第二季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3930,6 +4420,7 @@
       "company_name": "灵犀文化",
       "name": "万国志",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -3938,6 +4429,7 @@
       "company_name": "灵犀文化",
       "name": "春秋封神",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -3946,6 +4438,7 @@
       "company_name": "灵犀文化",
       "name": "残次品·放逐星空",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3954,6 +4447,7 @@
       "company_name": "灵犀文化",
       "name": "火凤燎原 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -3962,6 +4456,7 @@
       "company_name": "灵犀文化",
       "name": "火凤燎原 第二季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -3970,6 +4465,7 @@
       "company_name": "灵犀文化",
       "name": "仙帝归来",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -3978,14 +4474,16 @@
       "company_name": "玄机科技",
       "name": "秦+B498:B532时明月之君临天下",
       "year": 2014,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "玄机科技",
       "name": "秦时明月之沧海横流",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "史",
       "rating_label": "史",
       "rating_score": -2.0
@@ -3994,6 +4492,7 @@
       "company_name": "玄机科技",
       "name": "天行九歌 第一季",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4002,6 +4501,7 @@
       "company_name": "玄机科技",
       "name": "天行九歌 第二季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4010,14 +4510,16 @@
       "company_name": "玄机科技",
       "name": "武庚纪 第一季",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "玄机科技",
       "name": "武庚纪 第二季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4026,14 +4528,16 @@
       "company_name": "玄机科技",
       "name": "武庚纪 第三季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "玄机科技",
       "name": "武庚纪 第四季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4042,6 +4546,7 @@
       "company_name": "玄机科技",
       "name": "天谕 第一季",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4050,6 +4555,7 @@
       "company_name": "玄机科技",
       "name": "天谕 第二季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4058,6 +4564,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆 第一季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4066,6 +4573,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆 第二季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4074,6 +4582,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆 第三季",
       "year": 2019,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4082,6 +4591,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆 第四季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4090,6 +4600,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆 第五季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4098,6 +4609,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆 第六季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4106,6 +4618,7 @@
       "company_name": "玄机科技",
       "name": "天宝伏妖录 第一季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4114,14 +4627,16 @@
       "company_name": "玄机科技",
       "name": "天宝伏妖录 第二季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "玄机科技",
       "name": "吞噬星空 第一季",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4130,6 +4645,7 @@
       "company_name": "玄机科技",
       "name": "吞噬星空 第二季",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4138,14 +4654,16 @@
       "company_name": "玄机科技",
       "name": "吞噬星空 第三季",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "玄机科技",
       "name": "吞噬星空 第四季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4154,6 +4672,7 @@
       "company_name": "玄机科技",
       "name": "吞噬星空 第五季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4162,6 +4681,7 @@
       "company_name": "玄机科技",
       "name": "吞噬星空 第六季",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4170,6 +4690,7 @@
       "company_name": "玄机科技",
       "name": "吞噬星空 第七季",
       "year": 2026,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4178,14 +4699,16 @@
       "company_name": "玄机科技",
       "name": "师兄啊师兄 第一季",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "玄机科技",
       "name": "师兄啊师兄 第二季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4194,6 +4717,7 @@
       "company_name": "玄机科技",
       "name": "师兄啊师兄 年番1",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4202,6 +4726,7 @@
       "company_name": "玄机科技",
       "name": "师兄啊师兄 年番2",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4210,6 +4735,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆之绝世唐门 年番1",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4218,6 +4744,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆之绝世唐门 年番2",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4226,6 +4753,7 @@
       "company_name": "玄机科技",
       "name": "斗罗大陆之绝世唐门 年番3",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4234,14 +4762,16 @@
       "company_name": "玄机科技",
       "name": "牧神记 年番1",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "玄机科技",
       "name": "牧神记 年番2",
       "year": 2025,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4250,6 +4780,7 @@
       "company_name": "氦闪",
       "name": "我的三体 罗辑传",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4258,6 +4789,7 @@
       "company_name": "氦闪",
       "name": "我地三体 章北海传",
       "year": 2020,
+      "work_type": "3D",
       "rating_raw": "年度推荐 强推荐",
       "rating_label": "年度推荐",
       "rating_score": 5.0
@@ -4266,6 +4798,7 @@
       "company_name": "氦闪",
       "name": "我的三体 第四季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4274,6 +4807,7 @@
       "company_name": "凝羽动画",
       "name": "茶啊二中 第一季",
       "year": 2014,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4282,6 +4816,7 @@
       "company_name": "凝羽动画",
       "name": "茶啊二中 第二季",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4290,6 +4825,7 @@
       "company_name": "凝羽动画",
       "name": "茶啊二中 第三季",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4298,6 +4834,7 @@
       "company_name": "凝羽动画",
       "name": "茶啊二中 第四季",
       "year": 2018,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4306,6 +4843,7 @@
       "company_name": "凝羽动画",
       "name": "茶啊二中 第五季",
       "year": 2024,
+      "work_type": "3D",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4314,6 +4852,7 @@
       "company_name": "美盛",
       "name": "星学院 魔法礼服",
       "year": 2015,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4322,6 +4861,7 @@
       "company_name": "美盛",
       "name": "星学院II 月灵手环",
       "year": 2016,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4330,6 +4870,7 @@
       "company_name": "美盛",
       "name": "星学院III 潘朵拉秘境",
       "year": 2017,
+      "work_type": "3D",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4338,6 +4879,7 @@
       "company_name": "美盛",
       "name": "星学院IV 明日传说",
       "year": 2021,
+      "work_type": "3D",
       "rating_raw": "不明",
       "rating_label": "不明",
       "rating_score": 0.0
@@ -4346,6 +4888,7 @@
       "company_name": "更三/三三而川",
       "name": "枕刀歌 第一季",
       "year": 2021,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4354,6 +4897,7 @@
       "company_name": "更三/三三而川",
       "name": "枕刀歌 第二季",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4362,6 +4906,7 @@
       "company_name": "更三/三三而川",
       "name": "枕刀歌 第三季",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4370,6 +4915,7 @@
       "company_name": "更三/三三而川",
       "name": "武双姝",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4378,14 +4924,16 @@
       "company_name": "绘之刃",
       "name": "千从狩",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "绘之刃",
       "name": "谎颜",
       "year": 2022,
+      "work_type": "3D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4394,6 +4942,7 @@
       "company_name": "绘之刃",
       "name": "你的人生，是我来迟了",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4402,6 +4951,7 @@
       "company_name": "绘之刃",
       "name": "燃夏",
       "year": 2023,
+      "work_type": "3D",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4410,30 +4960,34 @@
       "company_name": "笔酷文化",
       "name": "开局地摊卖大力",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "纸飞机",
       "name": "两不疑 第一季",
       "year": 2021,
+      "work_type": "三渲二",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "纸飞机",
       "name": "两不疑 第二季",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "纸飞机",
       "name": "为喵人生",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4442,22 +4996,25 @@
       "company_name": "元气蛙",
       "name": "暂停！让我查攻略",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "元气蛙",
       "name": "暂停！智序重组",
       "year": 2024,
+      "work_type": "三渲二",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "元气蛙",
       "name": "区区不才，在下野怪",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4466,14 +5023,16 @@
       "company_name": "元气蛙",
       "name": "命运拳台",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "幻马群英社",
       "name": "上海故事",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4482,6 +5041,7 @@
       "company_name": "幻马群英社",
       "name": "向火而生",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4490,6 +5050,7 @@
       "company_name": "两点十分",
       "name": "爆蛋晶英",
       "year": 2015,
+      "work_type": "三渲二",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4498,6 +5059,7 @@
       "company_name": "两点十分",
       "name": "战国FAN",
       "year": 2016,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4506,6 +5068,7 @@
       "company_name": "两点十分",
       "name": "我是江小白 第一季",
       "year": 2017,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4514,6 +5077,7 @@
       "company_name": "两点十分",
       "name": "我是江小白 第二季",
       "year": 2018,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4522,6 +5086,7 @@
       "company_name": "两点十分",
       "name": "秘宝之国",
       "year": 2021,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4530,6 +5095,7 @@
       "company_name": "两点十分",
       "name": "打火机与公主裙",
       "year": 2021,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4538,6 +5104,7 @@
       "company_name": "两点十分",
       "name": "诸天纪",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4546,6 +5113,7 @@
       "company_name": "两点十分",
       "name": "万古剑神",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4554,6 +5122,7 @@
       "company_name": "两点十分",
       "name": "近战法师",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4562,14 +5131,16 @@
       "company_name": "两点十分",
       "name": "谷围南亭",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "声影动漫",
       "name": "剑网3·侠肝义胆沈剑心 第一季",
       "year": 2018,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4578,14 +5149,16 @@
       "company_name": "声影动漫",
       "name": "剑网3·侠肝义胆沈剑心 第二季",
       "year": 2019,
+      "work_type": "三渲二",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "声影动漫",
       "name": "剑网3·侠肝义胆沈剑心 第三季上",
       "year": 2022,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4594,6 +5167,7 @@
       "company_name": "声影动漫",
       "name": "剑网3·侠肝义胆沈剑心 第三季下",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0
@@ -4602,14 +5176,16 @@
       "company_name": "声影动漫",
       "name": "有药 第一季",
       "year": 2020,
+      "work_type": "三渲二",
       "rating_raw": "佳作 弱推荐",
       "rating_label": "佳作",
-      "rating_score": 1.5
+      "rating_score": 2.5
     },
     {
       "company_name": "声影动漫",
       "name": "有药 第二季",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4618,14 +5194,16 @@
       "company_name": "声影动漫",
       "name": "只好背叛地球了",
       "year": 2021,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "声影动漫",
       "name": "烈火浇愁",
       "year": 2021,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 普通推荐",
       "rating_label": "年度推荐",
       "rating_score": 3.0
@@ -4634,14 +5212,16 @@
       "company_name": "声影动漫",
       "name": "异空战歌",
       "year": 2023,
+      "work_type": "三渲二",
       "rating_raw": "佳作",
       "rating_label": "佳作",
-      "rating_score": 2.0
+      "rating_score": 3.0
     },
     {
       "company_name": "声影动漫",
       "name": "是王者啊？ 第三季",
       "year": 2024,
+      "work_type": "三渲二",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4650,6 +5230,7 @@
       "company_name": "声影动漫",
       "name": "是王者啊？ 第四季",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4658,6 +5239,7 @@
       "company_name": "声影动漫",
       "name": "是王者啊？ 第五季",
       "year": 2025,
+      "work_type": "2D",
       "rating_raw": "能看",
       "rating_label": "能看",
       "rating_score": -0.5
@@ -4666,6 +5248,7 @@
       "company_name": "声影动漫",
       "name": "成何体统 第一季",
       "year": 2024,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4674,6 +5257,7 @@
       "company_name": "声影动漫",
       "name": "成何体统 第二季",
       "year": 2026,
+      "work_type": "三渲二",
       "rating_raw": "年度推荐 中推荐",
       "rating_label": "年度推荐",
       "rating_score": 4.0
@@ -4682,14 +5266,16 @@
       "company_name": "声影动漫",
       "name": "无聊就完结",
       "year": 2024,
+      "work_type": "2D",
       "rating_raw": "还行",
       "rating_label": "还行",
-      "rating_score": 0.5
+      "rating_score": 1.5
     },
     {
       "company_name": "声影动漫",
       "name": "通灵妃 第二季",
       "year": 2025,
+      "work_type": "三渲二",
       "rating_raw": "拉了",
       "rating_label": "拉了",
       "rating_score": -1.0

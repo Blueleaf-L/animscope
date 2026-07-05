@@ -27,8 +27,8 @@ const Views = {
    * Render a company type tag.
    */
   typeTag(type) {
-    const cls = type === "2D" ? "tag-2D" : type === "3D" ? "tag-3D" : "tag-hybrid";
-    return `<span class="tag ${cls}">${escapeHtml(type)}</span>`;
+    var cls = type === "2D" ? "tag-2D" : type === "3D" ? "tag-3D" : type === "三渲二" ? "tag-hybrid" : "tag-mixed";
+    return '<span class="tag ' + cls + '">' + escapeHtml(type) + '</span>';
   },
 
   /**

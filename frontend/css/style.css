@@ -385,6 +385,7 @@ img { max-width: 100%; height: auto; }
 .tag-2D { background: #5b8def22; color: var(--color-primary); }
 .tag-3D { background: #f06b4a22; color: var(--color-accent); }
 .tag-hybrid { background: #3cc9a622; color: var(--color-success); }
+.tag-mixed { background: #7c5ce022; color: #7c5ce0; }
 
 .rating-badge {
   display: inline-block;

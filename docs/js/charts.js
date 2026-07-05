@@ -121,7 +121,7 @@ const Charts = {
     const inst = this._getInstance(domId);
     if (!inst) return;
 
-    const typeColors = { "2D": colors.palette[0], "3D": colors.palette[1], "三渲二": colors.palette[2] };
+    const typeColors = { "2D": colors.palette[0], "3D": colors.palette[1], "三渲二": colors.palette[2], "混合型": colors.palette[3] };
 
     const seriesByType = {};
     data.forEach(d => {

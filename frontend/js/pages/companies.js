@@ -58,7 +58,7 @@ Pages.Companies = {
     var html = '<h1 style="margin-bottom:20px;">公司总览</h1>';
     html += '<div class="filter-bar">';
     html += '<div class="search-box"><input type="text" id="company-search" placeholder="搜索公司..." value="' + escapeHtml(self._state.q) + '"><button class="btn btn-primary btn-sm" id="search-btn">搜索</button></div>';
-    html += '<select id="type-filter"><option value="">全部类型</option><option value="2D"' + (self._state.type==="2D"?" selected":"") + '>2D</option><option value="3D"' + (self._state.type==="3D"?" selected":"") + '>3D</option><option value="三渲二"' + (self._state.type==="三渲二"?" selected":"") + '>三渲二</option></select>';
+    html += '<select id="type-filter"><option value="">全部类型</option><option value="2D"' + (self._state.type==="2D"?" selected":"") + '>2D</option><option value="3D"' + (self._state.type==="3D"?" selected":"") + '>3D</option><option value="三渲二"' + (self._state.type==="三渲二"?" selected":"") + '>三渲二</option><option value="混合型"' + (self._state.type==="混合型"?" selected":"") + '>混合型</option></select>';
     html += '<select id="sort-select"><option value="name"' + (sk==="name"?" selected":"") + '>按名称</option><option value="works_count"' + (sk==="works_count"?" selected":"") + '>按作品数</option><option value="avg_score"' + (sk==="avg_score"?" selected":"") + '>按平均分</option></select>';
     html += '<button class="btn btn-outline btn-sm" id="order-toggle">' + (so==="asc"?"升序":"降序") + '</button></div>';
 

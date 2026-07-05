@@ -3,12 +3,12 @@
     {
       "company_id": 33,
       "company_name": "福煦影视（福总）",
-      "company_type": "2D",
+      "company_type": "混合型",
       "works_count": 46,
-      "avg_score": -0.39,
+      "avg_score": -0.24,
       "recommended_count": 1,
       "trash_count": 21,
-      "z_score": -0.84,
+      "z_score": -0.91,
       "rank": 1
     },
     {
@@ -16,10 +16,10 @@
       "company_name": "绘梦/哔梦",
       "company_type": "2D",
       "works_count": 45,
-      "avg_score": -0.14,
+      "avg_score": 0.12,
       "recommended_count": 4,
       "trash_count": 18,
-      "z_score": -0.61,
+      "z_score": -0.59,
       "rank": 2
     },
     {
@@ -27,10 +27,10 @@
       "company_name": "天工艺彩",
       "company_type": "3D",
       "works_count": 12,
-      "avg_score": -0.46,
+      "avg_score": -0.38,
       "recommended_count": 1,
       "trash_count": 7,
-      "z_score": -0.9,
+      "z_score": -1.03,
       "rank": 3
     },
     {
@@ -38,10 +38,10 @@
       "company_name": "两点十分",
       "company_type": "三渲二",
       "works_count": 10,
-      "avg_score": -0.4,
+      "avg_score": -0.3,
       "recommended_count": 1,
       "trash_count": 7,
-      "z_score": -0.85,
+      "z_score": -0.96,
       "rank": 4
     },
     {
@@ -49,10 +49,10 @@
       "company_name": "中影年年",
       "company_type": "3D",
       "works_count": 25,
-      "avg_score": 0.22,
+      "avg_score": 0.46,
       "recommended_count": 4,
       "trash_count": 6,
-      "z_score": -0.27,
+      "z_score": -0.28,
       "rank": 5
     },
     {
@@ -60,10 +60,10 @@
       "company_name": "玄机科技",
       "company_type": "3D",
       "works_count": 34,
-      "avg_score": 0.03,
+      "avg_score": 0.24,
       "recommended_count": 2,
       "trash_count": 6,
-      "z_score": -0.45,
+      "z_score": -0.48,
       "rank": 6
     },
     {
@@ -71,10 +71,10 @@
       "company_name": "视美",
       "company_type": "2D",
       "works_count": 17,
-      "avg_score": 0.82,
+      "avg_score": 1.18,
       "recommended_count": 4,
       "trash_count": 5,
-      "z_score": 0.29,
+      "z_score": 0.36,
       "rank": 7
     },
     {
@@ -82,10 +82,10 @@
       "company_name": "彩色铅笔",
       "company_type": "2D",
       "works_count": 14,
-      "avg_score": -0.11,
+      "avg_score": 0.25,
       "recommended_count": 1,
       "trash_count": 5,
-      "z_score": -0.58,
+      "z_score": -0.47,
       "rank": 8
     },
     {
@@ -93,10 +93,10 @@
       "company_name": "大火鸟",
       "company_type": "2D",
       "works_count": 17,
-      "avg_score": -0.47,
+      "avg_score": -0.35,
       "recommended_count": 0,
       "trash_count": 5,
-      "z_score": -0.91,
+      "z_score": -1.0,
       "rank": 9
     },
     {
@@ -104,10 +104,10 @@
       "company_name": "幻维数码",
       "company_type": "3D",
       "works_count": 20,
-      "avg_score": 0.1,
+      "avg_score": 0.25,
       "recommended_count": 2,
       "trash_count": 5,
-      "z_score": -0.38,
+      "z_score": -0.47,
       "rank": 10
     },
     {
@@ -115,10 +115,10 @@
       "company_name": "若森",
       "company_type": "3D",
       "works_count": 16,
-      "avg_score": 1.12,
+      "avg_score": 1.25,
       "recommended_count": 6,
       "trash_count": 5,
-      "z_score": 0.57,
+      "z_score": 0.42,
       "rank": 11
     },
     {
@@ -126,10 +126,10 @@
       "company_name": "君艺心",
       "company_type": "3D",
       "works_count": 8,
-      "avg_score": -0.38,
+      "avg_score": -0.12,
       "recommended_count": 0,
       "trash_count": 5,
-      "z_score": -0.83,
+      "z_score": -0.8,
       "rank": 12
     },
     {
@@ -137,10 +137,10 @@
       "company_name": "洛水花园",
       "company_type": "2D",
       "works_count": 25,
-      "avg_score": 1.06,
+      "avg_score": 1.42,
       "recommended_count": 5,
       "trash_count": 4,
-      "z_score": 0.51,
+      "z_score": 0.57,
       "rank": 13
     },
     {
@@ -148,21 +148,21 @@
       "company_name": "百漫",
       "company_type": "3D",
       "works_count": 11,
-      "avg_score": 0.05,
+      "avg_score": 0.5,
       "recommended_count": 0,
       "trash_count": 4,
-      "z_score": -0.43,
+      "z_score": -0.25,
       "rank": 14
     },
     {
       "company_id": 51,
       "company_name": "七创社",
-      "company_type": "3D",
+      "company_type": "混合型",
       "works_count": 6,
-      "avg_score": -0.33,
+      "avg_score": 0.0,
       "recommended_count": 0,
       "trash_count": 4,
-      "z_score": -0.78,
+      "z_score": -0.69,
       "rank": 15
     },
     {
@@ -170,10 +170,10 @@
       "company_name": "七灵石",
       "company_type": "2D",
       "works_count": 7,
-      "avg_score": -0.36,
+      "avg_score": -0.07,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -0.81,
+      "z_score": -0.76,
       "rank": 16
     },
     {
@@ -181,10 +181,10 @@
       "company_name": "娃娃鱼",
       "company_type": "2D",
       "works_count": 9,
-      "avg_score": -0.22,
+      "avg_score": 0.0,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -0.68,
+      "z_score": -0.69,
       "rank": 17
     },
     {
@@ -195,18 +195,18 @@
       "avg_score": -0.88,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -1.29,
+      "z_score": -1.48,
       "rank": 18
     },
     {
       "company_id": 37,
       "company_name": "云图",
-      "company_type": "3D",
+      "company_type": "混合型",
       "works_count": 9,
-      "avg_score": 1.06,
+      "avg_score": 1.28,
       "recommended_count": 3,
       "trash_count": 3,
-      "z_score": 0.51,
+      "z_score": 0.44,
       "rank": 19
     },
     {
@@ -217,7 +217,7 @@
       "avg_score": -0.58,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -1.02,
+      "z_score": -1.21,
       "rank": 20
     },
     {
@@ -228,7 +228,7 @@
       "avg_score": -0.8,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -1.22,
+      "z_score": -1.4,
       "rank": 21
     },
     {
@@ -236,21 +236,21 @@
       "company_name": "万维猫",
       "company_type": "3D",
       "works_count": 6,
-      "avg_score": -0.17,
+      "avg_score": 0.17,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -0.63,
+      "z_score": -0.54,
       "rank": 22
     },
     {
       "company_id": 53,
       "company_name": "米粒影业",
-      "company_type": "三渲二",
+      "company_type": "混合型",
       "works_count": 5,
       "avg_score": -1.0,
       "recommended_count": 0,
       "trash_count": 3,
-      "z_score": -1.41,
+      "z_score": -1.58,
       "rank": 23
     },
     {
@@ -258,10 +258,10 @@
       "company_name": "震雷",
       "company_type": "2D",
       "works_count": 6,
-      "avg_score": 1.08,
+      "avg_score": 1.58,
       "recommended_count": 1,
       "trash_count": 2,
-      "z_score": 0.53,
+      "z_score": 0.71,
       "rank": 24
     },
     {
@@ -269,10 +269,10 @@
       "company_name": "小疯映画",
       "company_type": "2D",
       "works_count": 6,
-      "avg_score": 2.08,
+      "avg_score": 2.25,
       "recommended_count": 3,
       "trash_count": 2,
-      "z_score": 1.46,
+      "z_score": 1.31,
       "rank": 25
     },
     {
@@ -280,10 +280,10 @@
       "company_name": "知行合一",
       "company_type": "2D",
       "works_count": 5,
-      "avg_score": -0.3,
+      "avg_score": 0.1,
       "recommended_count": 0,
       "trash_count": 2,
-      "z_score": -0.75,
+      "z_score": -0.6,
       "rank": 26
     },
     {
@@ -291,10 +291,10 @@
       "company_name": "原力动画",
       "company_type": "3D",
       "works_count": 11,
-      "avg_score": 0.45,
+      "avg_score": 0.82,
       "recommended_count": 1,
       "trash_count": 2,
-      "z_score": -0.06,
+      "z_score": 0.04,
       "rank": 27
     },
     {
@@ -305,7 +305,7 @@
       "avg_score": 0.31,
       "recommended_count": 2,
       "trash_count": 2,
-      "z_score": -0.19,
+      "z_score": -0.42,
       "rank": 28
     },
     {
@@ -313,10 +313,10 @@
       "company_name": "伊恩",
       "company_type": "3D",
       "works_count": 3,
-      "avg_score": 0.0,
+      "avg_score": 0.33,
       "recommended_count": 0,
       "trash_count": 2,
-      "z_score": -0.48,
+      "z_score": -0.4,
       "rank": 29
     },
     {
@@ -324,10 +324,10 @@
       "company_name": "筑梦",
       "company_type": "3D",
       "works_count": 12,
-      "avg_score": -0.12,
+      "avg_score": 0.21,
       "recommended_count": 0,
       "trash_count": 2,
-      "z_score": -0.59,
+      "z_score": -0.51,
       "rank": 30
     },
     {
@@ -335,10 +335,10 @@
       "company_name": "海岸线",
       "company_type": "3D",
       "works_count": 4,
-      "avg_score": 0.75,
+      "avg_score": 1.0,
       "recommended_count": 1,
       "trash_count": 2,
-      "z_score": 0.22,
+      "z_score": 0.2,
       "rank": 31
     },
     {
@@ -346,10 +346,10 @@
       "company_name": "虚拟印象",
       "company_type": "3D",
       "works_count": 10,
-      "avg_score": 0.8,
+      "avg_score": 1.4,
       "recommended_count": 1,
       "trash_count": 2,
-      "z_score": 0.27,
+      "z_score": 0.55,
       "rank": 32
     },
     {
@@ -357,10 +357,10 @@
       "company_name": "超神影业",
       "company_type": "3D",
       "works_count": 4,
-      "avg_score": -0.5,
+      "avg_score": 0.0,
       "recommended_count": 0,
       "trash_count": 2,
-      "z_score": -0.94,
+      "z_score": -0.69,
       "rank": 33
     },
     {
@@ -371,15 +371,15 @@
       "avg_score": 1.58,
       "recommended_count": 3,
       "trash_count": 2,
-      "z_score": 0.99,
+      "z_score": 0.71,
       "rank": 34
     },
     {
       "company_id": 66,
       "company_name": "绘之刃",
-      "company_type": "三渲二",
+      "company_type": "混合型",
       "works_count": 4,
-      "avg_score": -0.12,
+      "avg_score": 0.12,
       "recommended_count": 0,
       "trash_count": 2,
       "z_score": -0.59,
@@ -388,9 +388,9 @@
     {
       "company_id": 72,
       "company_name": "声影动漫",
-      "company_type": "三渲二",
+      "company_type": "混合型",
       "works_count": 16,
-      "avg_score": 1.47,
+      "avg_score": 1.78,
       "recommended_count": 6,
       "trash_count": 2,
       "z_score": 0.89,
@@ -401,10 +401,10 @@
       "company_name": "ASK",
       "company_type": "2D",
       "works_count": 7,
-      "avg_score": -0.21,
+      "avg_score": -0.07,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -0.67,
+      "z_score": -0.76,
       "rank": 37
     },
     {
@@ -412,21 +412,21 @@
       "company_name": "艾尔平方",
       "company_type": "2D",
       "works_count": 12,
-      "avg_score": 1.25,
+      "avg_score": 1.67,
       "recommended_count": 3,
       "trash_count": 1,
-      "z_score": 0.69,
+      "z_score": 0.79,
       "rank": 38
     },
     {
       "company_id": 9,
       "company_name": "好传",
-      "company_type": "2D",
+      "company_type": "混合型",
       "works_count": 6,
-      "avg_score": 1.0,
+      "avg_score": 1.5,
       "recommended_count": 1,
       "trash_count": 1,
-      "z_score": 0.46,
+      "z_score": 0.64,
       "rank": 39
     },
     {
@@ -434,10 +434,10 @@
       "company_name": "灵参伍",
       "company_type": "2D",
       "works_count": 3,
-      "avg_score": 0.0,
+      "avg_score": 0.67,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -0.48,
+      "z_score": -0.1,
       "rank": 40
     },
     {
@@ -448,7 +448,7 @@
       "avg_score": -2.0,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -2.34,
+      "z_score": -2.47,
       "rank": 41
     },
     {
@@ -459,7 +459,7 @@
       "avg_score": 1.67,
       "recommended_count": 2,
       "trash_count": 1,
-      "z_score": 1.08,
+      "z_score": 0.79,
       "rank": 42
     },
     {
@@ -470,7 +470,7 @@
       "avg_score": 2.0,
       "recommended_count": 3,
       "trash_count": 1,
-      "z_score": 1.39,
+      "z_score": 1.09,
       "rank": 43
     },
     {
@@ -481,7 +481,7 @@
       "avg_score": -0.75,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -1.17,
+      "z_score": -1.36,
       "rank": 44
     },
     {
@@ -492,7 +492,7 @@
       "avg_score": -0.75,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -1.17,
+      "z_score": -1.36,
       "rank": 45
     },
     {
@@ -503,7 +503,7 @@
       "avg_score": -1.0,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -1.41,
+      "z_score": -1.58,
       "rank": 46
     },
     {
@@ -511,10 +511,10 @@
       "company_name": "元气蛙",
       "company_type": "三渲二",
       "works_count": 4,
-      "avg_score": 0.75,
+      "avg_score": 1.5,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": 0.22,
+      "z_score": 0.64,
       "rank": 47
     },
     {
@@ -525,7 +525,7 @@
       "avg_score": -0.75,
       "recommended_count": 0,
       "trash_count": 1,
-      "z_score": -1.17,
+      "z_score": -1.36,
       "rank": 48
     },
     {
@@ -533,10 +533,10 @@
       "company_name": "画枚",
       "company_type": "2D",
       "works_count": 3,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.01,
+      "z_score": 0.64,
       "rank": 49
     },
     {
@@ -547,7 +547,7 @@
       "avg_score": 0.83,
       "recommended_count": 3,
       "trash_count": 0,
-      "z_score": 0.3,
+      "z_score": 0.04,
       "rank": 50
     },
     {
@@ -555,10 +555,10 @@
       "company_name": "寒木春华",
       "company_type": "2D",
       "works_count": 2,
-      "avg_score": 2.75,
+      "avg_score": 3.25,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 2.08,
+      "z_score": 2.2,
       "rank": 51
     },
     {
@@ -566,10 +566,10 @@
       "company_name": "六道无鱼",
       "company_type": "2D",
       "works_count": 2,
-      "avg_score": 2.25,
+      "avg_score": 2.75,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 1.62,
+      "z_score": 1.75,
       "rank": 52
     },
     {
@@ -580,7 +580,7 @@
       "avg_score": 3.5,
       "recommended_count": 2,
       "trash_count": 0,
-      "z_score": 2.78,
+      "z_score": 2.42,
       "rank": 53
     },
     {
@@ -588,10 +588,10 @@
       "company_name": "什悦文化",
       "company_type": "2D",
       "works_count": 3,
-      "avg_score": 0.0,
+      "avg_score": 0.33,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.48,
+      "z_score": -0.4,
       "rank": 54
     },
     {
@@ -599,10 +599,10 @@
       "company_name": "糖人家",
       "company_type": "2D",
       "works_count": 3,
-      "avg_score": 0.67,
+      "avg_score": 1.0,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": 0.15,
+      "z_score": 0.2,
       "rank": 55
     },
     {
@@ -610,10 +610,10 @@
       "company_name": "崇卓",
       "company_type": "2D",
       "works_count": 2,
-      "avg_score": 1.75,
+      "avg_score": 2.25,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 1.15,
+      "z_score": 1.31,
       "rank": 56
     },
     {
@@ -621,10 +621,10 @@
       "company_name": "心魂",
       "company_type": "2D",
       "works_count": 1,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.01,
+      "z_score": 0.64,
       "rank": 57
     },
     {
@@ -632,10 +632,10 @@
       "company_name": "柒幺柒",
       "company_type": "2D",
       "works_count": 2,
-      "avg_score": 1.75,
+      "avg_score": 2.25,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 1.15,
+      "z_score": 1.31,
       "rank": 58
     },
     {
@@ -643,10 +643,10 @@
       "company_name": "九五年",
       "company_type": "2D",
       "works_count": 9,
-      "avg_score": 0.28,
+      "avg_score": 0.5,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.21,
+      "z_score": -0.25,
       "rank": 59
     },
     {
@@ -654,10 +654,10 @@
       "company_name": "时七羽墨",
       "company_type": "2D",
       "works_count": 1,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.01,
+      "z_score": 0.64,
       "rank": 60
     },
     {
@@ -665,10 +665,10 @@
       "company_name": "启缘映画",
       "company_type": "2D",
       "works_count": 9,
-      "avg_score": 0.28,
+      "avg_score": 0.72,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.21,
+      "z_score": -0.05,
       "rank": 61
     },
     {
@@ -679,18 +679,18 @@
       "avg_score": 1.0,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 0.46,
+      "z_score": 0.2,
       "rank": 62
     },
     {
       "company_id": 31,
       "company_name": "上美",
-      "company_type": "2D",
+      "company_type": "3D",
       "works_count": 2,
       "avg_score": 2.0,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 1.39,
+      "z_score": 1.09,
       "rank": 63
     },
     {
@@ -701,7 +701,7 @@
       "avg_score": 0.6,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 0.08,
+      "z_score": -0.16,
       "rank": 64
     },
     {
@@ -709,10 +709,10 @@
       "company_name": "吾立方",
       "company_type": "3D",
       "works_count": 4,
-      "avg_score": 2.0,
+      "avg_score": 2.25,
       "recommended_count": 2,
       "trash_count": 0,
-      "z_score": 1.39,
+      "z_score": 1.31,
       "rank": 65
     },
     {
@@ -723,7 +723,7 @@
       "avg_score": -0.5,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.94,
+      "z_score": -1.14,
       "rank": 66
     },
     {
@@ -734,7 +734,7 @@
       "avg_score": 3.0,
       "recommended_count": 2,
       "trash_count": 0,
-      "z_score": 2.32,
+      "z_score": 1.97,
       "rank": 67
     },
     {
@@ -745,7 +745,7 @@
       "avg_score": 2.8,
       "recommended_count": 4,
       "trash_count": 0,
-      "z_score": 2.13,
+      "z_score": 1.8,
       "rank": 68
     },
     {
@@ -756,7 +756,7 @@
       "avg_score": 0.75,
       "recommended_count": 1,
       "trash_count": 0,
-      "z_score": 0.22,
+      "z_score": -0.03,
       "rank": 69
     },
     {
@@ -767,7 +767,7 @@
       "avg_score": 2.12,
       "recommended_count": 3,
       "trash_count": 0,
-      "z_score": 1.5,
+      "z_score": 1.19,
       "rank": 70
     },
     {
@@ -775,10 +775,10 @@
       "company_name": "笔酷文化",
       "company_type": "三渲二",
       "works_count": 1,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.01,
+      "z_score": 0.64,
       "rank": 71
     },
     {
@@ -786,10 +786,10 @@
       "company_name": "纸飞机",
       "company_type": "三渲二",
       "works_count": 3,
-      "avg_score": 0.5,
+      "avg_score": 1.17,
       "recommended_count": 0,
       "trash_count": 0,
-      "z_score": -0.01,
+      "z_score": 0.35,
       "rank": 72
     }
   ],

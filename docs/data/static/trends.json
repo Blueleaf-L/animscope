@@ -16,195 +16,195 @@
       "type_2d_count": 0,
       "type_2d_avg": 0,
       "type_3d_count": 1,
-      "type_3d_avg": 0.5,
+      "type_3d_avg": 1.5,
       "type_hybrid_count": 0,
       "type_hybrid_avg": 0,
       "total_count": 1,
-      "total_avg": 0.5
+      "total_avg": 1.5
     },
     {
       "year": 2012,
       "type_2d_count": 1,
-      "type_2d_avg": 2.0,
+      "type_2d_avg": 3.0,
       "type_3d_count": 1,
-      "type_3d_avg": 2.0,
+      "type_3d_avg": 3.0,
       "type_hybrid_count": 0,
       "type_hybrid_avg": 0,
       "total_count": 2,
-      "total_avg": 2.0
+      "total_avg": 3.0
     },
     {
       "year": 2013,
       "type_2d_count": 4,
-      "type_2d_avg": 1.5,
+      "type_2d_avg": 2.25,
       "type_3d_count": 2,
-      "type_3d_avg": 0.5,
+      "type_3d_avg": 1.5,
       "type_hybrid_count": 0,
       "type_hybrid_avg": 0,
       "total_count": 6,
-      "total_avg": 1.17
+      "total_avg": 2.0
     },
     {
       "year": 2014,
       "type_2d_count": 6,
-      "type_2d_avg": 0.25,
+      "type_2d_avg": 1.08,
       "type_3d_count": 5,
-      "type_3d_avg": 1.5,
+      "type_3d_avg": 2.1,
       "type_hybrid_count": 0,
       "type_hybrid_avg": 0,
       "total_count": 11,
-      "total_avg": 0.82
+      "total_avg": 1.55
     },
     {
       "year": 2015,
       "type_2d_count": 7,
-      "type_2d_avg": 0.43,
+      "type_2d_avg": 0.86,
       "type_3d_count": 8,
-      "type_3d_avg": 2.12,
+      "type_3d_avg": 2.25,
       "type_hybrid_count": 1,
       "type_hybrid_avg": -0.5,
       "total_count": 16,
-      "total_avg": 1.22
+      "total_avg": 1.47
     },
     {
       "year": 2016,
       "type_2d_count": 21,
-      "type_2d_avg": 0.26,
+      "type_2d_avg": 0.36,
       "type_3d_count": 13,
-      "type_3d_avg": 1.23,
+      "type_3d_avg": 1.38,
       "type_hybrid_count": 1,
       "type_hybrid_avg": -1.0,
       "total_count": 35,
-      "total_avg": 0.59
+      "total_avg": 0.7
     },
     {
       "year": 2017,
-      "type_2d_count": 21,
-      "type_2d_avg": 0.14,
-      "type_3d_count": 12,
-      "type_3d_avg": 0.17,
+      "type_2d_count": 20,
+      "type_2d_avg": 0.55,
+      "type_3d_count": 13,
+      "type_3d_avg": 0.31,
       "type_hybrid_count": 2,
       "type_hybrid_avg": 1.25,
       "total_count": 35,
-      "total_avg": 0.21
+      "total_avg": 0.5
     },
     {
       "year": 2018,
-      "type_2d_count": 24,
-      "type_2d_avg": 0.79,
-      "type_3d_count": 17,
-      "type_3d_avg": 0.21,
+      "type_2d_count": 23,
+      "type_2d_avg": 0.87,
+      "type_3d_count": 18,
+      "type_3d_avg": 0.56,
       "type_hybrid_count": 3,
-      "type_hybrid_avg": 0.83,
+      "type_hybrid_avg": 0.67,
       "total_count": 44,
-      "total_avg": 0.57
+      "total_avg": 0.73
     },
     {
       "year": 2019,
       "type_2d_count": 16,
-      "type_2d_avg": 0.84,
+      "type_2d_avg": 1.09,
       "type_3d_count": 13,
-      "type_3d_avg": 1.0,
+      "type_3d_avg": 1.46,
       "type_hybrid_count": 1,
-      "type_hybrid_avg": 0.5,
+      "type_hybrid_avg": 1.5,
       "total_count": 30,
-      "total_avg": 0.9
+      "total_avg": 1.27
     },
     {
       "year": 2020,
-      "type_2d_count": 36,
-      "type_2d_avg": 0.22,
-      "type_3d_count": 16,
-      "type_3d_avg": 0.03,
-      "type_hybrid_count": 2,
-      "type_hybrid_avg": 0.25,
+      "type_2d_count": 34,
+      "type_2d_avg": 0.44,
+      "type_3d_count": 19,
+      "type_3d_avg": 0.18,
+      "type_hybrid_count": 1,
+      "type_hybrid_avg": 2.5,
       "total_count": 54,
-      "total_avg": 0.17
+      "total_avg": 0.39
     },
     {
       "year": 2021,
-      "type_2d_count": 29,
-      "type_2d_avg": 0.59,
-      "type_3d_count": 20,
-      "type_3d_avg": 0.4,
-      "type_hybrid_count": 7,
-      "type_hybrid_avg": 0.43,
+      "type_2d_count": 26,
+      "type_2d_avg": 1.06,
+      "type_3d_count": 24,
+      "type_3d_avg": 0.33,
+      "type_hybrid_count": 6,
+      "type_hybrid_avg": 0.75,
       "total_count": 56,
-      "total_avg": 0.5
+      "total_avg": 0.71
     },
     {
       "year": 2022,
-      "type_2d_count": 29,
-      "type_2d_avg": 0.09,
-      "type_3d_count": 27,
-      "type_3d_avg": -0.2,
-      "type_hybrid_count": 9,
-      "type_hybrid_avg": 0.44,
+      "type_2d_count": 25,
+      "type_2d_avg": 0.52,
+      "type_3d_count": 32,
+      "type_3d_avg": -0.05,
+      "type_hybrid_count": 8,
+      "type_hybrid_avg": 0.94,
       "total_count": 65,
-      "total_avg": 0.02
+      "total_avg": 0.29
     },
     {
       "year": 2023,
-      "type_2d_count": 37,
-      "type_2d_avg": -0.14,
-      "type_3d_count": 33,
-      "type_3d_avg": 0.11,
-      "type_hybrid_count": 10,
-      "type_hybrid_avg": 0.4,
+      "type_2d_count": 29,
+      "type_2d_avg": 0.05,
+      "type_3d_count": 43,
+      "type_3d_avg": 0.21,
+      "type_hybrid_count": 8,
+      "type_hybrid_avg": 1.0,
       "total_count": 80,
-      "total_avg": 0.03
+      "total_avg": 0.23
     },
     {
       "year": 2024,
-      "type_2d_count": 29,
-      "type_2d_avg": 0.0,
-      "type_3d_count": 37,
-      "type_3d_avg": 0.5,
-      "type_hybrid_count": 5,
-      "type_hybrid_avg": 1.1,
+      "type_2d_count": 28,
+      "type_2d_avg": 0.46,
+      "type_3d_count": 40,
+      "type_3d_avg": 0.54,
+      "type_hybrid_count": 3,
+      "type_hybrid_avg": 2.17,
       "total_count": 71,
-      "total_avg": 0.34
+      "total_avg": 0.58
     },
     {
       "year": 2025,
-      "type_2d_count": 22,
-      "type_2d_avg": 0.34,
-      "type_3d_count": 34,
-      "type_3d_avg": 0.01,
+      "type_2d_count": 19,
+      "type_2d_avg": 0.61,
+      "type_3d_count": 37,
+      "type_3d_avg": 0.19,
       "type_hybrid_count": 7,
-      "type_hybrid_avg": 0.14,
+      "type_hybrid_avg": 0.36,
       "total_count": 63,
-      "total_avg": 0.14
+      "total_avg": 0.33
     },
     {
       "year": 2026,
-      "type_2d_count": 9,
-      "type_2d_avg": 0.39,
-      "type_3d_count": 7,
-      "type_3d_avg": -0.57,
+      "type_2d_count": 6,
+      "type_2d_avg": 1.25,
+      "type_3d_count": 10,
+      "type_3d_avg": -0.4,
       "type_hybrid_count": 1,
       "type_hybrid_avg": 4.0,
       "total_count": 17,
-      "total_avg": 0.21
+      "total_avg": 0.44
     }
   ],
   "heatmap_data": [
     {
       "company_name": "视美",
       "year": 2015,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "视美",
       "year": 2016,
-      "avg_score": -0.67,
+      "avg_score": -0.33,
       "count": 3
     },
     {
       "company_name": "视美",
       "year": 2017,
-      "avg_score": 2.25,
+      "avg_score": 2.75,
       "count": 2
     },
     {
@@ -216,13 +216,13 @@
     {
       "company_name": "视美",
       "year": 2019,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
       "company_name": "视美",
       "year": 2020,
-      "avg_score": -0.5,
+      "avg_score": -0.17,
       "count": 3
     },
     {
@@ -240,7 +240,7 @@
     {
       "company_name": "视美",
       "year": 2024,
-      "avg_score": 0.5,
+      "avg_score": 1.0,
       "count": 2
     },
     {
@@ -252,7 +252,7 @@
     {
       "company_name": "彩色铅笔",
       "year": 2014,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
@@ -264,7 +264,7 @@
     {
       "company_name": "彩色铅笔",
       "year": 2017,
-      "avg_score": -0.25,
+      "avg_score": 0.25,
       "count": 2
     },
     {
@@ -294,19 +294,19 @@
     {
       "company_name": "彩色铅笔",
       "year": 2023,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "彩色铅笔",
       "year": 2024,
-      "avg_score": -1.17,
+      "avg_score": -0.83,
       "count": 3
     },
     {
       "company_name": "彩色铅笔",
       "year": 2025,
-      "avg_score": 0.75,
+      "avg_score": 1.25,
       "count": 2
     },
     {
@@ -330,7 +330,7 @@
     {
       "company_name": "大火鸟",
       "year": 2020,
-      "avg_score": -0.25,
+      "avg_score": 0.0,
       "count": 4
     },
     {
@@ -342,7 +342,7 @@
     {
       "company_name": "大火鸟",
       "year": 2023,
-      "avg_score": -0.3,
+      "avg_score": -0.1,
       "count": 5
     },
     {
@@ -360,13 +360,13 @@
     {
       "company_name": "艾尔平方",
       "year": 2012,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
       "company_name": "艾尔平方",
       "year": 2013,
-      "avg_score": 1.0,
+      "avg_score": 1.5,
       "count": 2
     },
     {
@@ -396,13 +396,13 @@
     {
       "company_name": "艾尔平方",
       "year": 2023,
-      "avg_score": -0.75,
+      "avg_score": -0.25,
       "count": 2
     },
     {
       "company_name": "艾尔平方",
       "year": 2024,
-      "avg_score": 1.25,
+      "avg_score": 2.25,
       "count": 2
     },
     {
@@ -450,7 +450,7 @@
     {
       "company_name": "娃娃鱼",
       "year": 2015,
-      "avg_score": 1.5,
+      "avg_score": 2.5,
       "count": 1
     },
     {
@@ -462,7 +462,7 @@
     {
       "company_name": "娃娃鱼",
       "year": 2018,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
@@ -486,43 +486,43 @@
     {
       "company_name": "洛水花园",
       "year": 2014,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "洛水花园",
       "year": 2015,
-      "avg_score": 0.25,
+      "avg_score": 0.75,
       "count": 2
     },
     {
       "company_name": "洛水花园",
       "year": 2016,
-      "avg_score": 1.75,
+      "avg_score": 1.92,
       "count": 6
     },
     {
       "company_name": "洛水花园",
       "year": 2017,
-      "avg_score": 0.0,
+      "avg_score": 0.25,
       "count": 4
     },
     {
       "company_name": "洛水花园",
       "year": 2018,
-      "avg_score": 1.0,
+      "avg_score": 1.5,
       "count": 2
     },
     {
       "company_name": "洛水花园",
       "year": 2019,
-      "avg_score": 2.75,
+      "avg_score": 3.25,
       "count": 2
     },
     {
       "company_name": "洛水花园",
       "year": 2020,
-      "avg_score": 2.25,
+      "avg_score": 2.75,
       "count": 2
     },
     {
@@ -534,13 +534,13 @@
     {
       "company_name": "洛水花园",
       "year": 2022,
-      "avg_score": 0.25,
+      "avg_score": 0.75,
       "count": 2
     },
     {
       "company_name": "洛水花园",
       "year": 2023,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
@@ -552,13 +552,13 @@
     {
       "company_name": "绘梦/哔梦",
       "year": 2013,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 2
     },
     {
       "company_name": "绘梦/哔梦",
       "year": 2014,
-      "avg_score": 0.12,
+      "avg_score": 0.88,
       "count": 4
     },
     {
@@ -576,7 +576,7 @@
     {
       "company_name": "绘梦/哔梦",
       "year": 2017,
-      "avg_score": -0.7,
+      "avg_score": -0.3,
       "count": 5
     },
     {
@@ -594,13 +594,13 @@
     {
       "company_name": "绘梦/哔梦",
       "year": 2020,
-      "avg_score": -1.25,
+      "avg_score": -1.08,
       "count": 6
     },
     {
       "company_name": "绘梦/哔梦",
       "year": 2021,
-      "avg_score": 1.83,
+      "avg_score": 2.17,
       "count": 3
     },
     {
@@ -618,13 +618,13 @@
     {
       "company_name": "绘梦/哔梦",
       "year": 2024,
-      "avg_score": -0.33,
+      "avg_score": 0.33,
       "count": 3
     },
     {
       "company_name": "绘梦/哔梦",
       "year": 2025,
-      "avg_score": 1.33,
+      "avg_score": 1.67,
       "count": 3
     },
     {
@@ -636,13 +636,13 @@
     {
       "company_name": "福煦影视（福总）",
       "year": 2017,
-      "avg_score": -0.88,
+      "avg_score": -0.62,
       "count": 4
     },
     {
       "company_name": "福煦影视（福总）",
       "year": 2018,
-      "avg_score": 0.83,
+      "avg_score": 1.17,
       "count": 3
     },
     {
@@ -654,7 +654,7 @@
     {
       "company_name": "福煦影视（福总）",
       "year": 2020,
-      "avg_score": 0.0,
+      "avg_score": 0.6,
       "count": 5
     },
     {
@@ -672,13 +672,13 @@
     {
       "company_name": "福煦影视（福总）",
       "year": 2023,
-      "avg_score": -0.44,
+      "avg_score": -0.31,
       "count": 8
     },
     {
       "company_name": "福煦影视（福总）",
       "year": 2024,
-      "avg_score": -0.17,
+      "avg_score": 0.0,
       "count": 6
     },
     {
@@ -714,13 +714,13 @@
     {
       "company_name": "幻维数码",
       "year": 2021,
-      "avg_score": 1.83,
+      "avg_score": 2.17,
       "count": 3
     },
     {
       "company_name": "幻维数码",
       "year": 2022,
-      "avg_score": 0.0,
+      "avg_score": 0.5,
       "count": 2
     },
     {
@@ -732,7 +732,7 @@
     {
       "company_name": "幻维数码",
       "year": 2024,
-      "avg_score": -0.12,
+      "avg_score": 0.12,
       "count": 4
     },
     {
@@ -750,19 +750,19 @@
     {
       "company_name": "原力动画",
       "year": 2018,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "原力动画",
       "year": 2020,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "原力动画",
       "year": 2021,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
@@ -780,19 +780,19 @@
     {
       "company_name": "原力动画",
       "year": 2025,
-      "avg_score": 0.12,
+      "avg_score": 0.38,
       "count": 4
     },
     {
       "company_name": "百漫",
       "year": 2018,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "百漫",
       "year": 2019,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
@@ -804,7 +804,7 @@
     {
       "company_name": "百漫",
       "year": 2022,
-      "avg_score": 1.25,
+      "avg_score": 2.25,
       "count": 2
     },
     {
@@ -822,7 +822,7 @@
     {
       "company_name": "百漫",
       "year": 2025,
-      "avg_score": -0.33,
+      "avg_score": 0.0,
       "count": 3
     },
     {
@@ -840,25 +840,25 @@
     {
       "company_name": "筑梦",
       "year": 2017,
-      "avg_score": 0.0,
+      "avg_score": 0.5,
       "count": 2
     },
     {
       "company_name": "筑梦",
       "year": 2019,
-      "avg_score": -0.75,
+      "avg_score": -0.25,
       "count": 2
     },
     {
       "company_name": "筑梦",
       "year": 2022,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
       "company_name": "筑梦",
       "year": 2023,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
@@ -888,7 +888,7 @@
     {
       "company_name": "天工艺彩",
       "year": 2020,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
@@ -918,25 +918,25 @@
     {
       "company_name": "虚拟印象",
       "year": 2011,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "虚拟印象",
       "year": 2012,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
       "company_name": "虚拟印象",
       "year": 2013,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 2
     },
     {
       "company_name": "虚拟印象",
       "year": 2014,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
@@ -948,7 +948,7 @@
     {
       "company_name": "虚拟印象",
       "year": 2016,
-      "avg_score": 2.0,
+      "avg_score": 3.0,
       "count": 1
     },
     {
@@ -984,13 +984,13 @@
     {
       "company_name": "若森",
       "year": 2017,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "若森",
       "year": 2018,
-      "avg_score": 0.5,
+      "avg_score": 0.75,
       "count": 4
     },
     {
@@ -1044,7 +1044,7 @@
     {
       "company_name": "中影年年",
       "year": 2020,
-      "avg_score": -0.67,
+      "avg_score": -0.33,
       "count": 3
     },
     {
@@ -1056,37 +1056,37 @@
     {
       "company_name": "中影年年",
       "year": 2022,
-      "avg_score": -0.75,
+      "avg_score": -0.5,
       "count": 4
     },
     {
       "company_name": "中影年年",
       "year": 2023,
-      "avg_score": 0.3,
+      "avg_score": 0.7,
       "count": 5
     },
     {
       "company_name": "中影年年",
       "year": 2024,
-      "avg_score": 0.88,
+      "avg_score": 1.12,
       "count": 4
     },
     {
       "company_name": "中影年年",
       "year": 2025,
-      "avg_score": -0.25,
+      "avg_score": 0.25,
       "count": 2
     },
     {
       "company_name": "玄机科技",
       "year": 2014,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "玄机科技",
       "year": 2016,
-      "avg_score": 2.25,
+      "avg_score": 2.75,
       "count": 2
     },
     {
@@ -1104,7 +1104,7 @@
     {
       "company_name": "玄机科技",
       "year": 2019,
-      "avg_score": -0.17,
+      "avg_score": 0.17,
       "count": 3
     },
     {
@@ -1116,25 +1116,25 @@
     {
       "company_name": "玄机科技",
       "year": 2021,
-      "avg_score": 0.12,
+      "avg_score": 0.38,
       "count": 4
     },
     {
       "company_name": "玄机科技",
       "year": 2022,
-      "avg_score": 0.25,
+      "avg_score": 0.75,
       "count": 2
     },
     {
       "company_name": "玄机科技",
       "year": 2023,
-      "avg_score": -0.33,
+      "avg_score": 0.0,
       "count": 3
     },
     {
       "company_name": "玄机科技",
       "year": 2024,
-      "avg_score": -0.1,
+      "avg_score": 0.1,
       "count": 5
     },
     {
@@ -1194,7 +1194,7 @@
     {
       "company_name": "两点十分",
       "year": 2025,
-      "avg_score": 0.5,
+      "avg_score": 1.5,
       "count": 1
     },
     {
@@ -1206,19 +1206,19 @@
     {
       "company_name": "声影动漫",
       "year": 2019,
-      "avg_score": 0.5,
-      "count": 1
-    },
-    {
-      "company_name": "声影动漫",
-      "year": 2020,
       "avg_score": 1.5,
       "count": 1
     },
     {
       "company_name": "声影动漫",
+      "year": 2020,
+      "avg_score": 2.5,
+      "count": 1
+    },
+    {
+      "company_name": "声影动漫",
       "year": 2021,
-      "avg_score": 1.75,
+      "avg_score": 2.25,
       "count": 2
     },
     {
@@ -1230,13 +1230,13 @@
     {
       "company_name": "声影动漫",
       "year": 2023,
-      "avg_score": 1.33,
+      "avg_score": 1.67,
       "count": 3
     },
     {
       "company_name": "声影动漫",
       "year": 2024,
-      "avg_score": 0.88,
+      "avg_score": 1.12,
       "count": 4
     },
     {

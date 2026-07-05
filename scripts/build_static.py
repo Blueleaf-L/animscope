@@ -37,13 +37,23 @@ company_id_map = {c["name"]: i + 1 for i, c in enumerate(companies)}
 for i, c in enumerate(companies):
     c["id"] = i + 1
 
-# Attach company_id, company_name, company_type to each work
+# Attach company_id, company_name, work_type to each work
 for w in works:
     cname = w["company_name"]
     w["company_id"] = company_id_map.get(cname, 0)
-    # Find company type
-    comp = next((c for c in companies if c["name"] == cname), None)
-    w["company_type"] = comp["type"] if comp else "3D"
+    # Use per-work type if available, otherwise fall back to company type
+    if "work_type" not in w:
+        comp = next((c for c in companies if c["name"] == cname), None)
+        w["work_type"] = comp["type"] if comp and comp["type"] != "混合型" else "3D"
+    # Ensure company_type alias for compatibility
+    w["company_type"] = w.get("work_type", "3D")
+
+# Update company type counts
+type_counts = {"2D": 0, "3D": 0, "三渲二": 0, "混合型": 0}
+for c in companies:
+    tp = c.get("type", "3D")
+    type_counts[tp] = type_counts.get(tp, 0) + 1
+print(f"Company types: {dict(type_counts)}")
 
 OUT = ROOT / "frontend" / "data" / "static"
 os.makedirs(OUT, exist_ok=True)

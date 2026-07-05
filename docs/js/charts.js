@@ -121,8 +121,6 @@ const Charts = {
     const inst = this._getInstance(domId);
     if (!inst) return;
 
-    if (this.isMobile()) return; // Table view used instead on mobile
-
     const typeColors = { "2D": colors.palette[0], "3D": colors.palette[1], "三渲二": colors.palette[2] };
 
     const seriesByType = {};

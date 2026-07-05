@@ -12,7 +12,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
-import pandas as pd
 from sqlalchemy import text
 from sqlalchemy.ext.asyncio import AsyncSession
 
@@ -192,6 +191,8 @@ async def import_from_excel(
     Prefer using convert_excel_to_json.py + import_from_json() for production use.
     This method is kept as a fallback for simple Excel files without merged cells.
     """
+    import re
+    import pandas as pd
     path = Path(filepath)
     if not path.exists():
         raise FileNotFoundError(f"Excel file not found: {filepath}")

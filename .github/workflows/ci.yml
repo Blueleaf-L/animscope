@@ -1,4 +1,4 @@
-name: CI
+name: Validate Static Build
 
 on:
   push:
@@ -7,24 +7,8 @@ on:
     branches: ["main"]
 
 jobs:
-  lint-and-test:
+  validate:
     runs-on: ubuntu-latest
-
-    services:
-      postgres:
-        image: postgres:16-alpine
-        env:
-          POSTGRES_USER: animation
-          POSTGRES_PASSWORD: change_me
-          POSTGRES_DB: animation_analysis
-        ports:
-          - 5432:5432
-        options: >-
-          --health-cmd pg_isready
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
-
     steps:
       - uses: actions/checkout@v4
 
@@ -33,33 +17,15 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
+      - name: Install deps
+        run: pip install numpy scipy matplotlib seaborn
+
+      - name: Rebuild static data
+        run: python scripts/build_static.py
+
+      - name: Verify output
         run: |
-          cd backend
-          pip install -r requirements.txt
-          pip install aiosqlite
-
-      - name: Lint with flake8
-        run: |
-          pip install flake8
-          flake8 backend/app --count --select=E9,F63,F7,F82 --show-source --statistics
-          flake8 backend/app --count --exit-zero --max-complexity=10 --statistics
-
-      - name: Run tests
-        env:
-          DATABASE_URL: postgresql+asyncpg://animation:change_me@localhost:5432/animation_analysis
-        run: |
-          cd backend
-          # Use SQLite in-memory for CI tests
-          pytest tests/ -v --tb=short
-
-  build:
-    needs: lint-and-test
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Build Docker images
-        run: docker compose build
+          test -f data/static/overview.json && echo "overview.json OK"
+          test -f data/static/companies_full.json && echo "companies_full.json OK"
+          test -f data/static/rankings_recommended.json && echo "rankings OK"
+          test -f data/static/trends.json && echo "trends OK"

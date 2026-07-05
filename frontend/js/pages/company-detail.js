@@ -1,137 +1,88 @@
 /**
- * Company Detail — #company/:id
+ * Company Detail — static version
  */
 Pages.CompanyDetail = {
   render: function (opts) {
     Views.showSkeleton();
-    var companyId = (opts && opts.params) ? opts.params.id : null;
-    if (!companyId) {
-      Views.showError("缺少公司ID", function () { Router.navigate("companies"); });
-      return;
-    }
-    var highlightTrash = (opts && opts.query && opts.query.highlight === "trash");
+    var companyId = parseInt((opts && opts.params) ? opts.params.id : null);
+    if (!companyId) { Views.showError("缺少公司ID", function () { Router.navigate("companies"); }); return; }
 
-    API.get("/companies/" + companyId)
+    StaticData.findCompany(companyId)
       .then(function (data) {
-        var works = data.works || [];
-        works.sort(function (a, b) { return (b.year || 0) - (a.year || 0); });
-
-        var scores = [];
-        var recCount = 0, trashCount = 0;
-        for (var i = 0; i < works.length; i++) {
-          var w = works[i];
+        var works = (data.works || []).slice().sort(function (a, b) { return (b.year || 0) - (a.year || 0); });
+        var recCount = 0, trashCount = 0, scores = [], years = [];
+        works.forEach(function (w) {
           if (w.rating_score != null) scores.push(w.rating_score);
           if (w.rating_label === "年度推荐") recCount++;
           if (w.rating_label === "拉了" || w.rating_label === "史") trashCount++;
-        }
-
-        var years = [];
-        for (var j = 0; j < works.length; j++) {
-          if (works[j].year) years.push(works[j].year);
-        }
+          if (w.year) years.push(w.year);
+        });
         years.sort(function (a, b) { return a - b; });
-        var minYear = years[0] || 2000;
-        var maxYear = years[years.length - 1] || 2025;
+        var minYear = years[0] || 2010, maxYear = years[years.length - 1] || 2026;
 
-        var theme = document.documentElement.getAttribute("data-theme") || "light";
-
-        var html = '<div class="company-hero"><div>';
-        html += '<h1>' + escapeHtml(data.name) + ' ' + Views.typeTag(data.type) + '</h1>';
+        var html = '<div class="company-hero"><div><h1>' + escapeHtml(data.name) + ' ' + Views.typeTag(data.type) + '</h1>';
         html += '<div class="company-meta" style="margin-top:8px;">';
-        html += '<span>' + works.length + ' 部作品</span>';
-        html += '<span>均分 ' + (data.avg_score != null ? Analytics.formatScore(data.avg_score) : "-") + '</span>';
-        html += '<span>推荐 ' + recCount + '</span>';
-        html += '<span style="color:var(--color-danger)">翻车 ' + trashCount + '</span>';
-        html += '</div></div>';
-        html += '<div><img src="' + CONFIG.API_BASE + '/charts/company-radar?id=' + companyId + '&theme=' + theme + '" alt="雷达图" style="max-width:300px;height:auto;" onerror="this.style.display=\'none\'"></div>';
-        html += '</div>';
+        html += '<span>' + works.length + ' 部作品</span><span>均分 ' + (data.avg_score != null ? Analytics.formatScore(data.avg_score) : "-") + '</span>';
+        html += '<span>推荐 ' + recCount + '</span><span style="color:var(--color-danger)">翻车 ' + trashCount + '</span></div></div></div>';
 
-        html += '<div class="card" style="margin-bottom:20px;">';
-        html += '<div class="card-title">作品时间线</div>';
+        // Radar chart (ECharts version)
+        html += '<div class="card" style="margin-bottom:20px;"><div class="card-title">综合雷达图</div>';
+        html += '<div id="chart-radar" class="chart-container" style="height:380px;"></div></div>';
+
+        html += '<div class="card" style="margin-bottom:20px;"><div class="card-title">作品时间线</div>';
         if (Charts.isMobile()) {
           html += '<div style="max-height:400px;overflow-y:auto;">';
-          for (var k = 0; k < works.length; k++) {
-            html += '<div style="padding:8px;border-bottom:1px solid var(--border-color);display:flex;justify-content:space-between;">';
-            html += '<span>' + escapeHtml(works[k].name) + '</span>';
-            html += '<span>' + (works[k].year || "-") + ' ' + Views.ratingBadge(works[k].rating_label) + '</span></div>';
-          }
+          works.forEach(function (w) { html += '<div style="padding:8px;border-bottom:1px solid var(--border-color);display:flex;justify-content:space-between;"><span>' + escapeHtml(w.name) + '</span><span>' + (w.year||"-") + ' ' + Views.ratingBadge(w.rating_label) + '</span></div>'; });
           html += '</div>';
-        } else {
-          html += '<div id="chart-timeline" class="chart-container" style="height:380px;"></div>';
-        }
+        } else { html += '<div id="chart-timeline" class="chart-container" style="height:380px;"></div>'; }
         html += '</div>';
 
-        html += '<div class="filter-bar">';
-        html += '<label>年份:</label><span>' + minYear + '</span>';
-        html += '<div class="time-slider" style="flex:1;margin:0 12px;">';
-        html += '<input type="range" id="year-slider" min="' + minYear + '" max="' + maxYear + '" value="' + maxYear + '" style="width:100%;"></div>';
-        html += '<span id="slider-year-label">全部</span>';
+        html += '<div class="filter-bar"><label>年份:</label><span>' + minYear + '</span><div class="time-slider" style="flex:1;margin:0 12px;"><input type="range" id="year-slider" min="' + minYear + '" max="' + maxYear + '" value="' + maxYear + '" style="width:100%;"></div><span id="slider-year-label">全部</span>';
         html += '<select id="rating-filter"><option value="">全部评级</option>';
-        CONFIG.RATING_ORDER.forEach(function (r) {
-          html += '<option value="' + r + '">' + r + '</option>';
-        });
-        html += '</select></div>';
-        html += '<div id="works-table"></div>';
+        CONFIG.RATING_ORDER.forEach(function (r) { html += '<option value="' + r + '">' + r + '</option>'; });
+        html += '</select></div><div id="works-table"></div>';
 
         Views.setContent(html);
 
-        if (!Charts.isMobile()) {
-          setTimeout(function () { Charts.renderTimeline("chart-timeline", works); }, 150);
-        }
+        // Charts
+        if (!Charts.isMobile()) setTimeout(function () { Charts.renderTimeline("chart-timeline", works); }, 150);
+        setTimeout(function () { renderRadarChart(data, works); }, 200);
 
-        renderWorksTable(works);
-
-        var slider = document.getElementById("year-slider");
-        var sliderLabel = document.getElementById("slider-year-label");
-        var ratingFilter = document.getElementById("rating-filter");
-
-        function filterWorks() {
+        // Table
+        renderTable(works);
+        var slider = document.getElementById("year-slider"), sLabel = document.getElementById("slider-year-label"), rFilter = document.getElementById("rating-filter");
+        function doFilter() {
           var maxY = parseInt(slider.value) || maxYear;
-          sliderLabel.textContent = maxY >= maxYear ? "全部" : ("≤ " + maxY);
-          var rating = ratingFilter.value || "";
-          var filtered = works.filter(function (w) {
-            if (maxY < maxYear && w.year && w.year > maxY) return false;
-            if (rating && w.rating_label !== rating) return false;
-            return true;
-          });
-          renderWorksTable(filtered);
+          sLabel.textContent = maxY >= maxYear ? "全部" : ("<= " + maxY);
+          var rating = rFilter.value || "";
+          var f = works.filter(function (w) { if (maxY < maxYear && w.year && w.year > maxY) return false; if (rating && w.rating_label !== rating) return false; return true; });
+          renderTable(f);
         }
-
-        function renderWorksTable(list) {
-          var cols = [
-            { key: "name", label: "作品名称" },
-            { key: "year", label: "年份", render: function (v) { return v || "-"; } },
-            { key: "rating_label", label: "评级", render: function (v) { return Views.ratingBadge(v); } },
-            { key: "rating_score", label: "评分", render: function (v) { return v != null ? Analytics.formatScore(v) : "-"; } },
-          ];
-          var tbl = document.getElementById("works-table");
-          if (tbl) tbl.innerHTML = Views.dataTable(cols, list, { emptyText: "暂无作品" });
-        }
-
-        if (slider) slider.oninput = filterWorks;
-        if (ratingFilter) ratingFilter.onchange = filterWorks;
-
-        if (highlightTrash) {
-          setTimeout(function () {
-            var rows = document.querySelectorAll(".data-table tbody tr");
-            for (var r = 0; r < rows.length; r++) {
-              var cells = rows[r].querySelectorAll("td");
-              for (var c = 0; c < cells.length; c++) {
-                if (cells[c].textContent === "拉了" || cells[c].textContent === "史") {
-                  rows[r].style.background = "rgba(232,64,93,0.1)";
-                  rows[r].scrollIntoView({ behavior: "smooth", block: "center" });
-                  break;
-                }
-              }
-            }
-          }, 300);
-        }
+        if (slider) slider.oninput = doFilter;
+        if (rFilter) rFilter.onchange = doFilter;
       })
-      .catch(function (err) {
-        console.error("Company detail error:", err);
-        Views.showError(err.message || "加载公司详情失败", function () {
-          Pages.CompanyDetail.render(opts);
-        });
-      });
+      .catch(function (err) { Views.showError("加载公司详情失败", function () { Pages.CompanyDetail.render(opts); }); });
   },
 };
+
+function renderRadarChart(data, works) {
+  var colors = CONFIG.getColors();
+  var inst = Charts._getInstance("chart-radar"); if (!inst) return;
+  var scores = []; works.forEach(function (w) { if (w.rating_score != null) scores.push(w.rating_score); });
+  var avg = scores.length ? scores.reduce(function (a,b) { return a+b; }, 0) / scores.length : 0;
+  var recR = works.length ? works.filter(function(w){return w.rating_label==="年度推荐"}).length / works.length : 0;
+  var trashR = works.length ? works.filter(function(w){return w.rating_label==="拉了"||w.rating_label==="史"}).length / works.length : 0;
+  var goodR = works.length ? works.filter(function(w){return w.rating_label==="佳作"||w.rating_label==="还行"}).length / works.length : 0;
+  var mx = scores.length ? Math.max.apply(null, scores) : 0, mn = scores.length ? Math.min.apply(null, scores) : 0;
+  var rng = mx - mn || 1;
+
+  inst.setOption({
+    radar: { indicator: [{name:"平均分",max:1},{name:"作品数",max:1},{name:"推荐率",max:1},{name:"良品率",max:1},{name:"稳定性",max:1},{name:"最高分",max:1}] },
+    series: [{ type: "radar", data: [{ value: [(avg+2)/8, Math.min(works.length/30,1), recR, goodR, works.length>1?1-Math.min(0.5,0.3):0.3, (mx+2)/8], name: data.name, areaStyle: { color: colors.palette[0], opacity: 0.2 } }] }],
+  }, true);
+}
+
+function renderTable(list) {
+  var cols = [{ key: "name", label: "作品名称" }, { key: "year", label: "年份", render: function(v){return v||"-";} }, { key: "rating_label", label: "评级", render: function(v){return Views.ratingBadge(v);} }, { key: "rating_score", label: "评分", render: function(v){return v!=null?Analytics.formatScore(v):"-";} }];
+  var t = document.getElementById("works-table"); if (t) t.innerHTML = Views.dataTable(cols, list, { emptyText: "暂无作品" });
+}

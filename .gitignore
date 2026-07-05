@@ -56,5 +56,10 @@ temp/
 # Nginx
 nginx/nginx.conf
 
-# Data files
+# Data files — exclude source, include generated static
 data/*.xlsx
+data/companies.json
+data/works.json
+data/数据质量报告.txt
+data/统计摘要.json
+data/公司详情.json

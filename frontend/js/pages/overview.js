@@ -1,11 +1,11 @@
 /**
- * Homepage Overview — #overview
+ * Homepage Overview — static version
  */
 Pages.Overview = {
   render: function () {
     Views.showSkeleton();
 
-    API.get("/analysis/overview")
+    StaticData.load("overview")
       .then(function (data) {
         var s = data.stats;
         var html = "";
@@ -20,7 +20,7 @@ Pages.Overview = {
 
         if (data.diagnostics && data.diagnostics.length) {
           html += '<section class="card" style="margin-bottom:20px;">';
-          html += '<div class="card-title" style="margin-bottom:8px;">行业诊断</div><ul style="padding-left:20px;color:var(--text-secondary);">';
+          html += '<div class="card-title">行业诊断</div><ul style="padding-left:20px;color:var(--text-secondary);">';
           data.diagnostics.forEach(function (d) {
             html += '<li style="margin-bottom:4px;">' + escapeHtml(d) + '</li>';
           });
@@ -44,30 +44,15 @@ Pages.Overview = {
           Charts.renderRingChart("chart-rating-dist", data.rating_distribution);
           Charts.renderRoseChart("chart-type-rose", data.type_distribution);
           Charts.renderDualAxisTrend("chart-yearly-trend", data.yearly_trends);
-
-          var ringInst = Charts._instances["chart-rating-dist"];
-          if (ringInst) {
-            ringInst.off("click");
-            ringInst.on("click", function (p) {
-              if (p.name === "年度推荐") window.location.hash = "#rankings?tab=recommended";
-              else if (p.name === "拉了" || p.name === "史") window.location.hash = "#rankings?tab=trash";
-              else window.location.hash = "#rankings?tab=good";
-            });
-          }
-          var roseInst = Charts._instances["chart-type-rose"];
-          if (roseInst) {
-            roseInst.off("click");
-            roseInst.on("click", function (p) {
-              if (p.name) window.location.hash = "#companies?type=" + encodeURIComponent(p.name);
-            });
-          }
+          var ri = Charts._instances["chart-rating-dist"];
+          if (ri) { ri.off("click"); ri.on("click", function (p) { if (p.name === "年度推荐") window.location.hash = "#rankings?tab=recommended"; else if (p.name === "拉了" || p.name === "史") window.location.hash = "#rankings?tab=trash"; else window.location.hash = "#rankings?tab=good"; }); }
+          var ro = Charts._instances["chart-type-rose"];
+          if (ro) { ro.off("click"); ro.on("click", function (p) { if (p.name) window.location.hash = "#companies?type=" + encodeURIComponent(p.name); }); }
         }, 150);
       })
       .catch(function (err) {
-        console.error("Overview error:", err);
-        Views.showError(err.message || "加载首页数据失败", function () {
-          Pages.Overview.render();
-        });
+        console.error("Overview:", err);
+        Views.showError("加载首页失败", function () { Pages.Overview.render(); });
       });
   },
 };

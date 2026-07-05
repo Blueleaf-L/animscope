@@ -2,7 +2,7 @@
 
 > 基于 72 家中国动画公司、586 部作品数据的 Web 分析平台
 >
-> **在线访问**: https://blueleaf-l.github.io/-/
+> **在线访问**: https://blueleaf-l.github.io/animscope/
 
 ## 项目简介
 

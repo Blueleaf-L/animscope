@@ -62,9 +62,8 @@ Pages.Companies = {
     html += '<select id="sort-select"><option value="name"' + (sk==="name"?" selected":"") + '>按名称</option><option value="works_count"' + (sk==="works_count"?" selected":"") + '>按作品数</option><option value="avg_score"' + (sk==="avg_score"?" selected":"") + '>按平均分</option></select>';
     html += '<button class="btn btn-outline btn-sm" id="order-toggle">' + (so==="asc"?"升序":"降序") + '</button></div>';
 
-    if (!Charts.isMobile()) {
-      html += '<div class="card" style="margin-bottom:20px;"><div class="card-title">公司分布气泡图 <button class="btn btn-sm btn-outline" id="bubble-toggle" style="margin-left:12px;">显示全部公司</button></div><div id="chart-bubble" class="chart-container" style="height:450px;"></div></div>';
-    }
+    var bubbleH = Charts.isMobile() ? 300 : 450;
+    html += '<div class="card" style="margin-bottom:20px;"><div class="card-title">公司分布气泡图 <button class="btn btn-sm btn-outline" id="bubble-toggle" style="margin-left:12px;">显示全部公司</button></div><div id="chart-bubble" class="chart-container" style="height:' + bubbleH + 'px;"></div></div>';
 
     html += '<div id="company-table"></div>';
     html += '<div style="display:flex;justify-content:center;gap:8px;margin-top:20px;" id="pagination"></div>';
@@ -81,25 +80,21 @@ Pages.Companies = {
     document.getElementById("company-table").innerHTML = Views.dataTable(cols, items, { emptyText: "暂无数据" });
 
     // Pagination
-    var ph = "";
-    for (var i = 1; i <= pages; i++) ph += '<button class="btn btn-sm ' + (i===self._state.page?"btn-primary":"btn-outline") + '" data-page="' + i + '">' + i + '</button>';
-    document.getElementById("pagination").innerHTML = ph;
+    document.getElementById("pagination").innerHTML = renderPagination(self._state.page, pages);
 
-    // Bubble chart
-    if (!Charts.isMobile()) {
-      var bd = items.map(function (c) { return { name: c.name, type: c.type, works_count: c.works_count, avg_score: c.avg_score, id: c.id }; });
-      setTimeout(function () { Charts.renderBubbleChart("chart-bubble", bd); }, 150);
+    // Bubble chart (all devices)
+    var bd = items.map(function (c) { return { name: c.name, type: c.type, works_count: c.works_count, avg_score: c.avg_score, id: c.id }; });
+    setTimeout(function () { Charts.renderBubbleChart("chart-bubble", bd); }, 150);
 
-      // Toggle all companies
-      var showingAll = false, currentBD = bd;
-      document.getElementById("bubble-toggle").onclick = function () {
-        if (showingAll) { Charts.renderBubbleChart("chart-bubble", currentBD); this.textContent = "显示全部公司"; showingAll = false; }
-        else {
-          var allBD = data.map(function (c) { return { name: c.name, type: c.type, works_count: c.works_count, avg_score: c.avg_score, id: c.id }; });
-          Charts.renderBubbleChart("chart-bubble", allBD); this.textContent = "显示当前页"; showingAll = true;
-        }
-      };
-    }
+    // Toggle all companies
+    var showingAll = false, currentBD = bd;
+    document.getElementById("bubble-toggle").onclick = function () {
+      if (showingAll) { Charts.renderBubbleChart("chart-bubble", currentBD); this.textContent = "显示全部公司"; showingAll = false; }
+      else {
+        var allBD = data.map(function (c) { return { name: c.name, type: c.type, works_count: c.works_count, avg_score: c.avg_score, id: c.id }; });
+        Charts.renderBubbleChart("chart-bubble", allBD); this.textContent = "显示当前页"; showingAll = true;
+      }
+    };
 
     self._attachEvents(pages);
   },

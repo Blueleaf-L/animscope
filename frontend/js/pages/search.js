@@ -19,7 +19,7 @@ Pages.Search = {
 
         var cols = [{ key:"name",label:"作品" },{ key:"company_name",label:"公司",render:function(v,row){return Views.companyLink(row.company_id,v);} },{ key:"year",label:"年份",render:function(v){return v||"-";} },{ key:"rating_label",label:"评级",render:function(v){return Views.ratingBadge(v);} },{ key:"rating_score",label:"评分",render:function(v){return v!=null?Analytics.formatScore(v):"-";} }];
         document.getElementById("search-results-table").innerHTML = Views.dataTable(cols, data.items, { emptyText: "无结果" });
-        var ph = ""; for (var i = 1; i <= Math.min(data.pages, 10); i++) ph += '<button class="btn btn-sm ' + (i===data.page?"btn-primary":"btn-outline") + '" data-page="' + i + '">' + i + '</button>';
+        var ph = renderPagination(data.page, data.pages);
         document.getElementById("pagination").innerHTML = ph;
         self._attachEvents();
       }).catch(function (err) { Views.showError("搜索失败", function () { Pages.Search.render(); }); });

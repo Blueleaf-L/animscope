@@ -135,3 +135,35 @@ const Views = {
     };
   },
 };
+
+/**
+ * Render pagination buttons with smart range (current +/- 3, first, last, prev/next).
+ * Defined as a global function so all pages can use it.
+ */
+function renderPagination(page, total) {
+  if (total <= 1) return "";
+  var html = "";
+
+  if (page > 1) html += '<button class="btn btn-sm btn-outline" data-page="' + (page - 1) + '">上一页</button>';
+
+  var start = Math.max(1, page - 3);
+  var end = Math.min(total, page + 3);
+
+  if (start > 1) {
+    html += '<button class="btn btn-sm btn-outline" data-page="1">1</button>';
+    if (start > 2) html += '<span style="padding:0 4px;">...</span>';
+  }
+
+  for (var i = start; i <= end; i++) {
+    html += '<button class="btn btn-sm ' + (i === page ? "btn-primary" : "btn-outline") + '" data-page="' + i + '">' + i + '</button>';
+  }
+
+  if (end < total) {
+    if (end < total - 1) html += '<span style="padding:0 4px;">...</span>';
+    html += '<button class="btn btn-sm btn-outline" data-page="' + total + '">' + total + '</button>';
+  }
+
+  if (page < total) html += '<button class="btn btn-sm btn-outline" data-page="' + (page + 1) + '">下一页</button>';
+
+  return html;
+}

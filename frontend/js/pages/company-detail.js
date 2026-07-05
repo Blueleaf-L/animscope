@@ -77,7 +77,7 @@ function renderRadarChart(data, works) {
   var rng = mx - mn || 1;
 
   inst.setOption({
-    radar: { indicator: [{name:"平均分",max:1},{name:"作品数",max:1},{name:"推荐率",max:1},{name:"良品率",max:1},{name:"稳定性",max:1},{name:"最高分",max:1}] },
+    radar: { indicator: [{name:"平均分\nAvg Score",max:1},{name:"作品数\nWorks",max:1},{name:"推荐率\nRecommended",max:1},{name:"良品率\nGood Rate",max:1},{name:"稳定性\nStability",max:1},{name:"最高分\nMax Score",max:1}] },
     series: [{ type: "radar", data: [{ value: [(avg+2)/8, Math.min(works.length/30,1), recR, goodR, works.length>1?1-Math.min(0.5,0.3):0.3, (mx+2)/8], name: data.name, areaStyle: { color: colors.palette[0], opacity: 0.2 } }] }],
   }, true);
 }

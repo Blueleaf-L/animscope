@@ -9,7 +9,7 @@ Pages.Rankings = {
     self._tab = ((opts && opts.query) ? opts.query.tab : null) || "recommended";
     StaticData.load("rankings_" + self._tab)
       .then(function (data) {
-        var html = '<h1 style="margin-bottom:20px;">作品排行</h1>';
+        var html = '<h1 style="margin-bottom:20px;">公司排行</h1>';
         html += '<div class="tabs"><button class="tab-btn' + (self._tab==="recommended"?" active":"") + '" data-tab="recommended">推荐排行</button><button class="tab-btn' + (self._tab==="good"?" active":"") + '" data-tab="good">综合评分</button><button class="tab-btn' + (self._tab==="trash"?" active":"") + '" data-tab="trash">翻车排行</button></div>';
         html += '<div class="ranking-cards" id="ranking-cards"></div>';
         Views.setContent(html);

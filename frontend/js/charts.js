@@ -224,12 +224,12 @@ const Charts = {
     if (!inst) return;
 
     const indicators = [
-      { name: "平均评分", max: 1 },
-      { name: "作品数量", max: 1 },
-      { name: "推荐率", max: 1 },
-      { name: "良品率", max: 1 },
-      { name: "翻车率(反)", max: 1 },
-      { name: "最高分", max: 1 },
+      { name: "平均评分\nAvg Score", max: 1 },
+      { name: "作品数量\nWorks", max: 1 },
+      { name: "推荐率\nRecommended", max: 1 },
+      { name: "良品率\nGood Rate", max: 1 },
+      { name: "翻车率(反)\nTrash(inv)", max: 1 },
+      { name: "最高分\nMax Score", max: 1 },
     ];
 
     const seriesData = companies.map(comp => {

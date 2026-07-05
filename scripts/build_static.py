@@ -45,7 +45,7 @@ for w in works:
     comp = next((c for c in companies if c["name"] == cname), None)
     w["company_type"] = comp["type"] if comp else "3D"
 
-OUT = ROOT / "data" / "static"
+OUT = ROOT / "frontend" / "data" / "static"
 os.makedirs(OUT, exist_ok=True)
 os.makedirs(OUT / "charts", exist_ok=True)
 

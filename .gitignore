@@ -1,65 +1,19 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-*.egg-info/
-dist/
-build/
-.eggs/
-venv/
-.venv/
-env/
-
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-
-# Environment
-.env
-.env.local
-.env.*.local
-
-# Database
-*.db
-*.sqlite3
-postgres_data/
-
-# Docker
-.docker/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-logs/
-
-# Test
-.pytest_cache/
-.coverage
-htmlcov/
-.tox/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Temp
-tmp/
-temp/
+# Temporary files
 *.tmp
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
 
-# Nginx
-nginx/nginx.conf
-
-# Data files — exclude source, include generated static
+# Source data (large files)
 data/*.xlsx
-data/companies.json
-data/works.json
-data/数据质量报告.txt
-data/统计摘要.json
-data/公司详情.json
